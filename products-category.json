@@ -1,0 +1,98 @@
+[
+  {
+    "name": "beauty",
+    "image": "https://images.pexels.com/photos/212236/pexels-photo-212236.jpeg"
+  },
+  {
+    "name": "fragrances",
+    "image": "https://images.pexels.com/photos/7703038/pexels-photo-7703038.jpeg"
+  },
+  {
+    "name": "furniture",
+    "image": "https://images.pexels.com/photos/12285887/pexels-photo-12285887.jpeg"
+  },
+  {
+    "name": "groceries",
+    "image": "https://images.pexels.com/photos/35113948/pexels-photo-35113948.jpeg"
+  },
+  {
+    "name": "home-decoration",
+    "image": "https://images.pexels.com/photos/11412564/pexels-photo-11412564.jpeg"
+  },
+  {
+    "name": "kitchen-accessories",
+    "image": "https://images.pexels.com/photos/9098766/pexels-photo-9098766.jpeg"
+  },
+  {
+    "name": "laptops",
+    "image": "https://images.pexels.com/photos/16783673/pexels-photo-16783673.jpeg"
+  },
+  {
+    "name": "mens-shirts",
+    "image": "https://images.pexels.com/photos/11029629/pexels-photo-11029629.png"
+  },
+  {
+    "name": "mens-shoes",
+    "image": "https://images.pexels.com/photos/7887198/pexels-photo-7887198.jpeg"
+  },
+  {
+    "name": "mens-watches",
+    "image": "https://images.pexels.com/photos/437038/pexels-photo-437038.jpeg"
+  },
+  {
+    "name": "mobile-accessories",
+    "image": "https://images.pexels.com/photos/19784109/pexels-photo-19784109.jpeg"
+  },
+  {
+    "name": "motorcycle",
+    "image": "https://images.pexels.com/photos/8532493/pexels-photo-8532493.png"
+  },
+  {
+    "name": "skin-care",
+    "image": "https://images.pexels.com/photos/27544696/pexels-photo-27544696.jpeg"
+  },
+  {
+    "name": "smartphones",
+    "image": "https://images.pexels.com/photos/8066714/pexels-photo-8066714.png"
+  },
+  {
+    "name": "sports-accessories",
+    "image": "https://images.pexels.com/photos/6740823/pexels-photo-6740823.jpeg"
+  },
+  {
+    "name": "sunglasses",
+    "image": "https://images.pexels.com/photos/704241/pexels-photo-704241.jpeg"
+  },
+  {
+    "name": "tablets",
+    "image": "https://images.pexels.com/photos/28461044/pexels-photo-28461044.jpeg"
+  },
+  {
+    "name": "tops",
+    "image": "https://images.pexels.com/photos/9594418/pexels-photo-9594418.jpeg"
+  },
+  {
+    "name": "vehicle",
+    "image": "https://images.pexels.com/photos/1007410/pexels-photo-1007410.jpeg"
+  },
+  {
+    "name": "womens-bags",
+    "image": "https://images.pexels.com/photos/27046146/pexels-photo-27046146.jpeg"
+  },
+  {
+    "name": "womens-dresses",
+    "image": "https://images.pexels.com/photos/8619007/pexels-photo-8619007.jpeg"
+  },
+  {
+    "name": "womens-jewellery",
+    "image": "https://images.pexels.com/photos/6689390/pexels-photo-6689390.jpeg"
+  },
+  {
+    "name": "womens-shoes",
+    "image": "https://images.pexels.com/photos/27204266/pexels-photo-27204266.jpeg"
+  },
+  {
+    "name": "womens-watches",
+    "image": "https://images.pexels.com/photos/876467/pexels-photo-876467.jpeg"
+  }
+]
