@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "code": "ANAQUELES",
+    "name": "Anaqueles",
+    "description": "Estanterías y sistemas de repisas para exhibición y almacenamiento de producto en punto de venta.",
+    "icon": "shelves",
+    "banner_image": "/categories/anaqueles.jpg",
+    "color": "#607D8B",
+    "sort_order": 1,
+    "featured": true,
+    "active": true
+  },
+  {
+    "id": 2,
+    "code": "EXHIBIDORES",
+    "name": "Exhibidores",
+    "description": "Estructuras de exhibición de piso, pared o mostrador diseñadas para destacar productos en el punto de venta.",
+    "icon": "storefront",
+    "banner_image": "/categories/exhibidores.jpg",
+    "color": "#2196F3",
+    "sort_order": 2,
+    "featured": true,
+    "active": true
+  },
+  {
+    "id": 3,
+    "code": "GLORIFICADORES",
+    "name": "Glorificadores",
+    "description": "Elementos de exhibición premium para resaltar un producto individual con máxima visibilidad.",
+    "icon": "star",
+    "banner_image": "/categories/glorificadores.jpg",
+    "color": "#9C27B0",
+    "sort_order": 3,
+    "featured": true,
+    "active": true
+  },
+  {
+    "id": 4,
+    "code": "MOSTRADORES",
+    "name": "Mostradores",
+    "description": "Muebles de atención al cliente y punto de cobro con superficie de trabajo y almacenamiento integrado.",
+    "icon": "countertops",
+    "banner_image": "/categories/mostradores.jpg",
+    "color": "#795548",
+    "sort_order": 4,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": 5,
+    "code": "TOTEMS_DISPLAYS",
+    "name": "Tótems y Displays",
+    "description": "Estructuras verticales de piso para señalización, comunicación gráfica y exhibición masiva de producto.",
+    "icon": "signpost",
+    "banner_image": "/categories/totems_displays.jpg",
+    "color": "#FF5722",
+    "sort_order": 5,
+    "featured": true,
+    "active": true
+  }
+]

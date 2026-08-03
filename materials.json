@@ -1,0 +1,2052 @@
+[
+  {
+    "id": 1,
+    "material_type_id": 1,
+    "category_id": 1,
+    "campaign_id": 1,
+    "brand_id": 1,
+    "sku": "POP-0001",
+    "barcode": "780000000001",
+    "name": "Anaquel Metálico Boltless 4 Niveles",
+    "short_description": "Anaquel metálico de montaje sin tornillos con 4 niveles de carga.",
+    "thumbnail_url": "/materials/anaqueles/material_001/main.png",
+    "unit": "UN",
+    "stock": 101,
+    "reserved_stock": 10,
+    "available_stock": 91,
+    "minimum_stock": 15,
+    "weight_kg": 22.0,
+    "featured": true,
+    "new_product": true,
+    "requires_serial": false,
+    "has_installation": true,
+    "has_warranty": true,
+    "version": "2026",
+    "status": "ACTIVE",
+    "sort_order": 1,
+    "material_details": {
+      "id": 1,
+      "material_id": 1,
+      "long_description": "Anaquel de acero laminado en frío con sistema de montaje boltless (sin tornillos), 4 niveles de bandejas reforzadas ideal para bodegas, trastiendas y áreas de reposición de alto volumen.",
+      "hero_image": "/materials/anaqueles/material_001/main.png",
+      "gallery": [
+        "/materials/anaqueles/material_001/gallery_01.png",
+        "/materials/anaqueles/material_001/gallery_02.png",
+        "/materials/anaqueles/material_001/gallery_03.png"
+      ],
+      "video_url": null,
+      "technical_specifications": {
+        "material": "Acero laminado en frío",
+        "color": "Gris",
+        "height_cm": 180,
+        "width_cm": 90,
+        "depth_cm": 40,
+        "weight_kg": 22.0,
+        "capacity": "200 kg distribuidos en 4 niveles",
+        "assembly_required": true,
+        "indoor": true,
+        "outdoor": false
+      },
+      "shipping_information": {
+        "packages": 1,
+        "package_weight_kg": 23.8,
+        "fragile": false,
+        "stackable": false
+      },
+      "installation_information": {
+        "difficulty": "MEDIA",
+        "estimated_minutes": 30,
+        "people_required": 2
+      },
+      "maintenance_information": {
+        "inspection_days": 90,
+        "cleaning": "Paño seco"
+      },
+      "commercial_information": {
+        "expected_lifetime_months": 60,
+        "recommended_channel": "Bodegas y Trastienda",
+        "campaign_compatible": true
+      },
+      "documents": [
+        {
+          "type": "PDF",
+          "title": "Manual de Instalación",
+          "url": "/docs/anaqueles_001/manual.pdf"
+        },
+        {
+          "type": "PDF",
+          "title": "Ficha Técnica",
+          "url": "/docs/anaqueles_001/specs.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "material_type_id": 1,
+    "category_id": 1,
+    "campaign_id": 1,
+    "brand_id": 1,
+    "sku": "POP-0002",
+    "barcode": "780000000002",
+    "name": "Anaquel de Madera Natural 4 Niveles",
+    "short_description": "Anaquel de madera de roble con diseño abierto minimalista para retail boutique.",
+    "thumbnail_url": "/materials/anaqueles/material_002/main.png",
+    "unit": "UN",
+    "stock": 102,
+    "reserved_stock": 10,
+    "available_stock": 92,
+    "minimum_stock": 15,
+    "weight_kg": 18.0,
+    "featured": false,
+    "new_product": true,
+    "requires_serial": false,
+    "has_installation": true,
+    "has_warranty": true,
+    "version": "2026",
+    "status": "ACTIVE",
+    "sort_order": 2,
+    "material_details": {
+      "id": 2,
+      "material_id": 2,
+      "long_description": "Anaquel de madera de roble natural con estructura abierta de 4 niveles, diseñado para tiendas boutique y espacios retail que buscan una estética cálida y minimalista.",
+      "hero_image": "/materials/anaqueles/material_002/main.png",
+      "gallery": [
+        "/materials/anaqueles/material_002/gallery_01.png",
+        "/materials/anaqueles/material_002/gallery_02.png",
+        "/materials/anaqueles/material_002/gallery_03.png"
+      ],
+      "video_url": null,
+      "technical_specifications": {
+        "material": "Madera de roble",
+        "color": "Roble Natural",
+        "height_cm": 140,
+        "width_cm": 100,
+        "depth_cm": 35,
+        "weight_kg": 18.0,
+        "capacity": "80 kg distribuidos en 4 niveles",
+        "assembly_required": true,
+        "indoor": true,
+        "outdoor": false
+      },
+      "shipping_information": {
+        "packages": 1,
+        "package_weight_kg": 19.4,
+        "fragile": false,
+        "stackable": false
+      },
+      "installation_information": {
+        "difficulty": "MEDIA",
+        "estimated_minutes": 25,
+        "people_required": 2
+      },
+      "maintenance_information": {
+        "inspection_days": 90,
+        "cleaning": "Paño seco"
+      },
+      "commercial_information": {
+        "expected_lifetime_months": 72,
+        "recommended_channel": "Tiendas Boutique",
+        "campaign_compatible": true
+      },
+      "documents": [
+        {
+          "type": "PDF",
+          "title": "Manual de Instalación",
+          "url": "/docs/anaqueles_002/manual.pdf"
+        },
+        {
+          "type": "PDF",
+          "title": "Ficha Técnica",
+          "url": "/docs/anaqueles_002/specs.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "material_type_id": 1,
+    "category_id": 1,
+    "campaign_id": 1,
+    "brand_id": 1,
+    "sku": "POP-0003",
+    "barcode": "780000000003",
+    "name": "Anaquel Industrial Cromado 5 Niveles",
+    "short_description": "Anaquel industrial cromado con bandejas negras para alto tráfico.",
+    "thumbnail_url": "/materials/anaqueles/material_003/main.png",
+    "unit": "UN",
+    "stock": 103,
+    "reserved_stock": 10,
+    "available_stock": 93,
+    "minimum_stock": 15,
+    "weight_kg": 28.0,
+    "featured": false,
+    "new_product": false,
+    "requires_serial": false,
+    "has_installation": true,
+    "has_warranty": true,
+    "version": "2026",
+    "status": "ACTIVE",
+    "sort_order": 3,
+    "material_details": {
+      "id": 3,
+      "material_id": 3,
+      "long_description": "Anaquel de perfil industrial con postes cromados y bandejas en acabado negro, 5 niveles de gran resistencia, pensado para almacenes y áreas de picking de alto tráfico.",
+      "hero_image": "/materials/anaqueles/material_003/main.png",
+      "gallery": [
+        "/materials/anaqueles/material_003/gallery_01.png",
+        "/materials/anaqueles/material_003/gallery_02.png",
+        "/materials/anaqueles/material_003/gallery_03.png"
+      ],
+      "video_url": null,
+      "technical_specifications": {
+        "material": "Acero cromado con bandejas ABS",
+        "color": "Cromado/Negro",
+        "height_cm": 190,
+        "width_cm": 95,
+        "depth_cm": 45,
+        "weight_kg": 28.0,
+        "capacity": "250 kg distribuidos en 5 niveles",
+        "assembly_required": true,
+        "indoor": true,
+        "outdoor": false
+      },
+      "shipping_information": {
+        "packages": 1,
+        "package_weight_kg": 30.2,
+        "fragile": false,
+        "stackable": false
+      },
+      "installation_information": {
+        "difficulty": "MEDIA",
+        "estimated_minutes": 35,
+        "people_required": 2
+      },
+      "maintenance_information": {
+        "inspection_days": 90,
+        "cleaning": "Paño húmedo"
+      },
+      "commercial_information": {
+        "expected_lifetime_months": 72,
+        "recommended_channel": "Almacenes y Centros de Distribución",
+        "campaign_compatible": true
+      },
+      "documents": [
+        {
+          "type": "PDF",
+          "title": "Manual de Instalación",
+          "url": "/docs/anaqueles_003/manual.pdf"
+        },
+        {
+          "type": "PDF",
+          "title": "Ficha Técnica",
+          "url": "/docs/anaqueles_003/specs.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "material_type_id": 1,
+    "category_id": 1,
+    "campaign_id": 1,
+    "brand_id": 1,
+    "sku": "POP-0004",
+    "barcode": "780000000004",
+    "name": "Anaquel Expositor con Ganchos y Cabecera Gráfica",
+    "short_description": "Anaquel vertical con ganchos y cabecera gráfica intercambiable para producto colgado.",
+    "thumbnail_url": "/materials/anaqueles/material_004/main.png",
+    "unit": "UN",
+    "stock": 104,
+    "reserved_stock": 10,
+    "available_stock": 94,
+    "minimum_stock": 15,
+    "weight_kg": 15.0,
+    "featured": false,
+    "new_product": false,
+    "requires_serial": false,
+    "has_installation": true,
+    "has_warranty": true,
+    "version": "2026",
+    "status": "ACTIVE",
+    "sort_order": 4,
+    "material_details": {
+      "id": 4,
+      "material_id": 4,
+      "long_description": "Anaquel vertical en acero pintado negro con 4 filas de ganchos para producto colgado y cabecera gráfica intercambiable, ideal para accesorios, blister y pequeño formato.",
+      "hero_image": "/materials/anaqueles/material_004/main.png",
+      "gallery": [
+        "/materials/anaqueles/material_004/gallery_01.png",
+        "/materials/anaqueles/material_004/gallery_02.png",
+        "/materials/anaqueles/material_004/gallery_03.png"
+      ],
+      "video_url": null,
+      "technical_specifications": {
+        "material": "Acero pintado",
+        "color": "Negro",
+        "height_cm": 170,
+        "width_cm": 70,
+        "depth_cm": 35,
+        "weight_kg": 15.0,
+        "capacity": "32 ganchos para colgar productos",
+        "assembly_required": true,
+        "indoor": true,
+        "outdoor": false
+      },
+      "shipping_information": {
+        "packages": 1,
+        "package_weight_kg": 16.2,
+        "fragile": false,
+        "stackable": false
+      },
+      "installation_information": {
+        "difficulty": "BAJA",
+        "estimated_minutes": 20,
+        "people_required": 1
+      },
+      "maintenance_information": {
+        "inspection_days": 90,
+        "cleaning": "Paño seco"
+      },
+      "commercial_information": {
+        "expected_lifetime_months": 48,
+        "recommended_channel": "Tiendas de Conveniencia",
+        "campaign_compatible": true
+      },
+      "documents": [
+        {
+          "type": "PDF",
+          "title": "Manual de Instalación",
+          "url": "/docs/anaqueles_004/manual.pdf"
+        },
+        {
+          "type": "PDF",
+          "title": "Ficha Técnica",
+          "url": "/docs/anaqueles_004/specs.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "material_type_id": 1,
+    "category_id": 1,
+    "campaign_id": 1,
+    "brand_id": 1,
+    "sku": "POP-0005",
+    "barcode": "780000000005",
+    "name": "Anaquel Góndola de Supermercado 3 Niveles",
+    "short_description": "Anaquel tipo góndola con panel perforado para pasillo de autoservicio.",
+    "thumbnail_url": "/materials/anaqueles/material_005/main.png",
+    "unit": "UN",
+    "stock": 105,
+    "reserved_stock": 10,
+    "available_stock": 95,
+    "minimum_stock": 15,
+    "weight_kg": 35.0,
+    "featured": false,
+    "new_product": false,
+    "requires_serial": false,
+    "has_installation": true,
+    "has_warranty": true,
+    "version": "2026",
+    "status": "ACTIVE",
+    "sort_order": 5,
+    "material_details": {
+      "id": 5,
+      "material_id": 5,
+      "long_description": "Anaquel tipo góndola de doble cara con panel perforado y 3 bandejas metálicas ajustables en altura, estándar para pasillos de autoservicio en supermercados.",
+      "hero_image": "/materials/anaqueles/material_005/main.png",
+      "gallery": [
+        "/materials/anaqueles/material_005/gallery_01.png",
+        "/materials/anaqueles/material_005/gallery_02.png",
+        "/materials/anaqueles/material_005/gallery_03.png"
+      ],
+      "video_url": null,
+      "technical_specifications": {
+        "material": "Acero galvanizado perforado",
+        "color": "Gris Metálico",
+        "height_cm": 165,
+        "width_cm": 100,
+        "depth_cm": 50,
+        "weight_kg": 35.0,
+        "capacity": "150 kg distribuidos en 3 niveles más base",
+        "assembly_required": true,
+        "indoor": true,
+        "outdoor": false
+      },
+      "shipping_information": {
+        "packages": 1,
+        "package_weight_kg": 37.8,
+        "fragile": false,
+        "stackable": false
+      },
+      "installation_information": {
+        "difficulty": "ALTA",
+        "estimated_minutes": 45,
+        "people_required": 2
+      },
+      "maintenance_information": {
+        "inspection_days": 90,
+        "cleaning": "Paño seco"
+      },
+      "commercial_information": {
+        "expected_lifetime_months": 84,
+        "recommended_channel": "Supermercados",
+        "campaign_compatible": true
+      },
+      "documents": [
+        {
+          "type": "PDF",
+          "title": "Manual de Instalación",
+          "url": "/docs/anaqueles_005/manual.pdf"
+        },
+        {
+          "type": "PDF",
+          "title": "Ficha Técnica",
+          "url": "/docs/anaqueles_005/specs.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "material_type_id": 1,
+    "category_id": 2,
+    "campaign_id": 1,
+    "brand_id": 1,
+    "sku": "POP-0006",
+    "barcode": "780000000006",
+    "name": "Exhibidor de Pared Perforado 3 Bandejas",
+    "short_description": "Exhibidor de pared con panel perforado y 3 bandejas ajustables.",
+    "thumbnail_url": "/materials/exhibidores/material_001/main.png",
+    "unit": "UN",
+    "stock": 106,
+    "reserved_stock": 10,
+    "available_stock": 96,
+    "minimum_stock": 15,
+    "weight_kg": 26.0,
+    "featured": true,
+    "new_product": true,
+    "requires_serial": false,
+    "has_installation": true,
+    "has_warranty": true,
+    "version": "2026",
+    "status": "ACTIVE",
+    "sort_order": 6,
+    "material_details": {
+      "id": 6,
+      "material_id": 6,
+      "long_description": "Exhibidor de pared con panel perforado y 3 bandejas metálicas ajustables en altura, base cerrada para almacenamiento, ideal para farmacias y tiendas de especialidad.",
+      "hero_image": "/materials/exhibidores/material_001/main.png",
+      "gallery": [
+        "/materials/exhibidores/material_001/gallery_01.png",
+        "/materials/exhibidores/material_001/gallery_02.png",
+        "/materials/exhibidores/material_001/gallery_03.png"
+      ],
+      "video_url": null,
+      "technical_specifications": {
+        "material": "Acero perforado",
+        "color": "Gris Metálico",
+        "height_cm": 190,
+        "width_cm": 65,
+        "depth_cm": 40,
+        "weight_kg": 26.0,
+        "capacity": "120 kg distribuidos en 3 niveles",
+        "assembly_required": true,
+        "indoor": true,
+        "outdoor": false
+      },
+      "shipping_information": {
+        "packages": 1,
+        "package_weight_kg": 28.1,
+        "fragile": false,
+        "stackable": false
+      },
+      "installation_information": {
+        "difficulty": "MEDIA",
+        "estimated_minutes": 30,
+        "people_required": 2
+      },
+      "maintenance_information": {
+        "inspection_days": 90,
+        "cleaning": "Paño seco"
+      },
+      "commercial_information": {
+        "expected_lifetime_months": 72,
+        "recommended_channel": "Farmacias y Tiendas de Especialidad",
+        "campaign_compatible": true
+      },
+      "documents": [
+        {
+          "type": "PDF",
+          "title": "Manual de Instalación",
+          "url": "/docs/exhibidores_001/manual.pdf"
+        },
+        {
+          "type": "PDF",
+          "title": "Ficha Técnica",
+          "url": "/docs/exhibidores_001/specs.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "material_type_id": 1,
+    "category_id": 2,
+    "campaign_id": 1,
+    "brand_id": 1,
+    "sku": "POP-0007",
+    "barcode": "780000000007",
+    "name": "Exhibidor Escalonado de Acrílico 2 Niveles",
+    "short_description": "Exhibidor escalonado de acrílico transparente para mostrador.",
+    "thumbnail_url": "/materials/exhibidores/material_002/main.png",
+    "unit": "UN",
+    "stock": 107,
+    "reserved_stock": 10,
+    "available_stock": 97,
+    "minimum_stock": 15,
+    "weight_kg": 1.2,
+    "featured": false,
+    "new_product": true,
+    "requires_serial": false,
+    "has_installation": false,
+    "has_warranty": true,
+    "version": "2026",
+    "status": "ACTIVE",
+    "sort_order": 7,
+    "material_details": {
+      "id": 7,
+      "material_id": 7,
+      "long_description": "Exhibidor escalonado de acrílico transparente de 2 niveles, formato compacto para mostrador, diseñado para productos pequeños de alta rotación cerca de caja.",
+      "hero_image": "/materials/exhibidores/material_002/main.png",
+      "gallery": [
+        "/materials/exhibidores/material_002/gallery_01.png",
+        "/materials/exhibidores/material_002/gallery_02.png",
+        "/materials/exhibidores/material_002/gallery_03.png"
+      ],
+      "video_url": null,
+      "technical_specifications": {
+        "material": "Acrílico transparente",
+        "color": "Transparente",
+        "height_cm": 15,
+        "width_cm": 30,
+        "depth_cm": 25,
+        "weight_kg": 1.2,
+        "capacity": "2 niveles para productos pequeños",
+        "assembly_required": false,
+        "indoor": true,
+        "outdoor": false
+      },
+      "shipping_information": {
+        "packages": 1,
+        "package_weight_kg": 2.2,
+        "fragile": true,
+        "stackable": false
+      },
+      "installation_information": {
+        "difficulty": "BAJA",
+        "estimated_minutes": 5,
+        "people_required": 1
+      },
+      "maintenance_information": {
+        "inspection_days": 90,
+        "cleaning": "Paño húmedo"
+      },
+      "commercial_information": {
+        "expected_lifetime_months": 36,
+        "recommended_channel": "Punto de Cobro",
+        "campaign_compatible": true
+      },
+      "documents": [
+        {
+          "type": "PDF",
+          "title": "Manual de Instalación",
+          "url": "/docs/exhibidores_002/manual.pdf"
+        },
+        {
+          "type": "PDF",
+          "title": "Ficha Técnica",
+          "url": "/docs/exhibidores_002/specs.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "material_type_id": 1,
+    "category_id": 2,
+    "campaign_id": 1,
+    "brand_id": 1,
+    "sku": "POP-0008",
+    "barcode": "780000000008",
+    "name": "Exhibidor Giratorio Cromado 3 Niveles",
+    "short_description": "Exhibidor giratorio cromado tipo carrusel de 3 niveles con base blanca.",
+    "thumbnail_url": "/materials/exhibidores/material_003/main.png",
+    "unit": "UN",
+    "stock": 108,
+    "reserved_stock": 10,
+    "available_stock": 98,
+    "minimum_stock": 15,
+    "weight_kg": 2.5,
+    "featured": false,
+    "new_product": false,
+    "requires_serial": false,
+    "has_installation": false,
+    "has_warranty": true,
+    "version": "2026",
+    "status": "ACTIVE",
+    "sort_order": 8,
+    "material_details": {
+      "id": 8,
+      "material_id": 8,
+      "long_description": "Exhibidor giratorio de alambre cromado con base blanca antideslizante, 3 niveles circulares que facilitan la visibilidad de productos pequeños como especias o cosméticos.",
+      "hero_image": "/materials/exhibidores/material_003/main.png",
+      "gallery": [
+        "/materials/exhibidores/material_003/gallery_01.png",
+        "/materials/exhibidores/material_003/gallery_02.png",
+        "/materials/exhibidores/material_003/gallery_03.png"
+      ],
+      "video_url": null,
+      "technical_specifications": {
+        "material": "Alambre de acero cromado con base ABS",
+        "color": "Cromado/Blanco",
+        "height_cm": 45,
+        "width_cm": 25,
+        "depth_cm": 25,
+        "weight_kg": 2.5,
+        "capacity": "3 niveles giratorios",
+        "assembly_required": false,
+        "indoor": true,
+        "outdoor": false
+      },
+      "shipping_information": {
+        "packages": 1,
+        "package_weight_kg": 3.5,
+        "fragile": false,
+        "stackable": false
+      },
+      "installation_information": {
+        "difficulty": "BAJA",
+        "estimated_minutes": 5,
+        "people_required": 1
+      },
+      "maintenance_information": {
+        "inspection_days": 90,
+        "cleaning": "Paño húmedo"
+      },
+      "commercial_information": {
+        "expected_lifetime_months": 36,
+        "recommended_channel": "Cosmética y Cuidado Personal",
+        "campaign_compatible": true
+      },
+      "documents": [
+        {
+          "type": "PDF",
+          "title": "Manual de Instalación",
+          "url": "/docs/exhibidores_003/manual.pdf"
+        },
+        {
+          "type": "PDF",
+          "title": "Ficha Técnica",
+          "url": "/docs/exhibidores_003/specs.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "material_type_id": 1,
+    "category_id": 2,
+    "campaign_id": 1,
+    "brand_id": 1,
+    "sku": "POP-0009",
+    "barcode": "780000000009",
+    "name": "Exhibidor de Pared Perforado 4 Bandejas",
+    "short_description": "Exhibidor de pared con panel perforado y 4 bandejas ajustables de mayor altura.",
+    "thumbnail_url": "/materials/exhibidores/material_004/main.png",
+    "unit": "UN",
+    "stock": 109,
+    "reserved_stock": 10,
+    "available_stock": 99,
+    "minimum_stock": 15,
+    "weight_kg": 30.0,
+    "featured": false,
+    "new_product": false,
+    "requires_serial": false,
+    "has_installation": true,
+    "has_warranty": true,
+    "version": "2026",
+    "status": "ACTIVE",
+    "sort_order": 9,
+    "material_details": {
+      "id": 9,
+      "material_id": 9,
+      "long_description": "Exhibidor de pared con panel perforado y 4 bandejas metálicas ajustables en altura, versión de mayor capacidad para categorías con más variedad de SKU.",
+      "hero_image": "/materials/exhibidores/material_004/main.png",
+      "gallery": [
+        "/materials/exhibidores/material_004/gallery_01.png",
+        "/materials/exhibidores/material_004/gallery_02.png",
+        "/materials/exhibidores/material_004/gallery_03.png"
+      ],
+      "video_url": null,
+      "technical_specifications": {
+        "material": "Acero perforado",
+        "color": "Gris Metálico",
+        "height_cm": 210,
+        "width_cm": 80,
+        "depth_cm": 45,
+        "weight_kg": 30.0,
+        "capacity": "160 kg distribuidos en 4 niveles",
+        "assembly_required": true,
+        "indoor": true,
+        "outdoor": false
+      },
+      "shipping_information": {
+        "packages": 1,
+        "package_weight_kg": 32.4,
+        "fragile": false,
+        "stackable": false
+      },
+      "installation_information": {
+        "difficulty": "MEDIA",
+        "estimated_minutes": 35,
+        "people_required": 2
+      },
+      "maintenance_information": {
+        "inspection_days": 90,
+        "cleaning": "Paño seco"
+      },
+      "commercial_information": {
+        "expected_lifetime_months": 72,
+        "recommended_channel": "Supermercados y Tiendas de Conveniencia",
+        "campaign_compatible": true
+      },
+      "documents": [
+        {
+          "type": "PDF",
+          "title": "Manual de Instalación",
+          "url": "/docs/exhibidores_004/manual.pdf"
+        },
+        {
+          "type": "PDF",
+          "title": "Ficha Técnica",
+          "url": "/docs/exhibidores_004/specs.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": 10,
+    "material_type_id": 1,
+    "category_id": 2,
+    "campaign_id": 1,
+    "brand_id": 1,
+    "sku": "POP-0010",
+    "barcode": "780000000010",
+    "name": "Exhibidor de Piso de Cartón 3 Niveles",
+    "short_description": "Exhibidor de piso de cartón corrugado con cabecera gráfica para campañas temporales.",
+    "thumbnail_url": "/materials/exhibidores/material_005/main.png",
+    "unit": "UN",
+    "stock": 110,
+    "reserved_stock": 10,
+    "available_stock": 100,
+    "minimum_stock": 15,
+    "weight_kg": 4.5,
+    "featured": false,
+    "new_product": false,
+    "requires_serial": false,
+    "has_installation": true,
+    "has_warranty": true,
+    "version": "2026",
+    "status": "ACTIVE",
+    "sort_order": 10,
+    "material_details": {
+      "id": 10,
+      "material_id": 10,
+      "long_description": "Exhibidor de piso en cartón corrugado triple pared con 3 niveles escalonados y cabecera gráfica de gran formato, montaje rápido sin herramientas para campañas temporales.",
+      "hero_image": "/materials/exhibidores/material_005/main.png",
+      "gallery": [
+        "/materials/exhibidores/material_005/gallery_01.png",
+        "/materials/exhibidores/material_005/gallery_02.png",
+        "/materials/exhibidores/material_005/gallery_03.png"
+      ],
+      "video_url": null,
+      "technical_specifications": {
+        "material": "Cartón corrugado triple pared",
+        "color": "Blanco/Kraft",
+        "height_cm": 120,
+        "width_cm": 60,
+        "depth_cm": 50,
+        "weight_kg": 4.5,
+        "capacity": "60 kg distribuidos en 3 niveles",
+        "assembly_required": true,
+        "indoor": true,
+        "outdoor": false
+      },
+      "shipping_information": {
+        "packages": 1,
+        "package_weight_kg": 5.5,
+        "fragile": false,
+        "stackable": false
+      },
+      "installation_information": {
+        "difficulty": "BAJA",
+        "estimated_minutes": 10,
+        "people_required": 1
+      },
+      "maintenance_information": {
+        "inspection_days": 90,
+        "cleaning": "Paño seco"
+      },
+      "commercial_information": {
+        "expected_lifetime_months": 6,
+        "recommended_channel": "Campañas Promocionales",
+        "campaign_compatible": true
+      },
+      "documents": [
+        {
+          "type": "PDF",
+          "title": "Manual de Instalación",
+          "url": "/docs/exhibidores_005/manual.pdf"
+        },
+        {
+          "type": "PDF",
+          "title": "Ficha Técnica",
+          "url": "/docs/exhibidores_005/specs.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": 11,
+    "material_type_id": 1,
+    "category_id": 3,
+    "campaign_id": 1,
+    "brand_id": 1,
+    "sku": "POP-0011",
+    "barcode": "780000000011",
+    "name": "Glorificador Cubo de Acrílico Transparente",
+    "short_description": "Glorificador cubo de acrílico transparente para producto único destacado.",
+    "thumbnail_url": "/materials/glorificadores/material_001/main.png",
+    "unit": "UN",
+    "stock": 111,
+    "reserved_stock": 10,
+    "available_stock": 101,
+    "minimum_stock": 15,
+    "weight_kg": 1.8,
+    "featured": true,
+    "new_product": true,
+    "requires_serial": false,
+    "has_installation": false,
+    "has_warranty": true,
+    "version": "2026",
+    "status": "ACTIVE",
+    "sort_order": 11,
+    "material_details": {
+      "id": 11,
+      "material_id": 11,
+      "long_description": "Glorificador en forma de cubo de acrílico transparente de alto brillo, diseñado para destacar un único producto premium en vitrina o mostrador.",
+      "hero_image": "/materials/glorificadores/material_001/main.png",
+      "gallery": [
+        "/materials/glorificadores/material_001/gallery_01.png",
+        "/materials/glorificadores/material_001/gallery_02.png",
+        "/materials/glorificadores/material_001/gallery_03.png"
+      ],
+      "video_url": null,
+      "technical_specifications": {
+        "material": "Acrílico transparente",
+        "color": "Transparente",
+        "height_cm": 30,
+        "width_cm": 25,
+        "depth_cm": 25,
+        "weight_kg": 1.8,
+        "capacity": "1 producto destacado",
+        "assembly_required": false,
+        "indoor": true,
+        "outdoor": false
+      },
+      "shipping_information": {
+        "packages": 1,
+        "package_weight_kg": 2.8,
+        "fragile": true,
+        "stackable": false
+      },
+      "installation_information": {
+        "difficulty": "BAJA",
+        "estimated_minutes": 5,
+        "people_required": 1
+      },
+      "maintenance_information": {
+        "inspection_days": 90,
+        "cleaning": "Paño húmedo"
+      },
+      "commercial_information": {
+        "expected_lifetime_months": 48,
+        "recommended_channel": "Vitrinas Premium",
+        "campaign_compatible": true
+      },
+      "documents": [
+        {
+          "type": "PDF",
+          "title": "Manual de Instalación",
+          "url": "/docs/glorificadores_001/manual.pdf"
+        },
+        {
+          "type": "PDF",
+          "title": "Ficha Técnica",
+          "url": "/docs/glorificadores_001/specs.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": 12,
+    "material_type_id": 1,
+    "category_id": 3,
+    "campaign_id": 1,
+    "brand_id": 1,
+    "sku": "POP-0012",
+    "barcode": "780000000012",
+    "name": "Glorificador Vitrina Rectangular con Base",
+    "short_description": "Glorificador vitrina rectangular de acrílico con base opaca blanca.",
+    "thumbnail_url": "/materials/glorificadores/material_002/main.png",
+    "unit": "UN",
+    "stock": 112,
+    "reserved_stock": 10,
+    "available_stock": 102,
+    "minimum_stock": 15,
+    "weight_kg": 4.0,
+    "featured": false,
+    "new_product": true,
+    "requires_serial": false,
+    "has_installation": false,
+    "has_warranty": true,
+    "version": "2026",
+    "status": "ACTIVE",
+    "sort_order": 12,
+    "material_details": {
+      "id": 12,
+      "material_id": 12,
+      "long_description": "Glorificador tipo vitrina rectangular de acrílico transparente sobre base opaca color blanco, pensado para exhibir productos premium con mayor superficie de apoyo.",
+      "hero_image": "/materials/glorificadores/material_002/main.png",
+      "gallery": [
+        "/materials/glorificadores/material_002/gallery_01.png",
+        "/materials/glorificadores/material_002/gallery_02.png",
+        "/materials/glorificadores/material_002/gallery_03.png"
+      ],
+      "video_url": null,
+      "technical_specifications": {
+        "material": "Acrílico transparente con base MDF lacada",
+        "color": "Transparente/Blanco",
+        "height_cm": 35,
+        "width_cm": 60,
+        "depth_cm": 25,
+        "weight_kg": 4.0,
+        "capacity": "1 a 3 productos",
+        "assembly_required": false,
+        "indoor": true,
+        "outdoor": false
+      },
+      "shipping_information": {
+        "packages": 1,
+        "package_weight_kg": 5.0,
+        "fragile": true,
+        "stackable": false
+      },
+      "installation_information": {
+        "difficulty": "BAJA",
+        "estimated_minutes": 8,
+        "people_required": 1
+      },
+      "maintenance_information": {
+        "inspection_days": 90,
+        "cleaning": "Paño húmedo"
+      },
+      "commercial_information": {
+        "expected_lifetime_months": 48,
+        "recommended_channel": "Vitrinas Premium",
+        "campaign_compatible": true
+      },
+      "documents": [
+        {
+          "type": "PDF",
+          "title": "Manual de Instalación",
+          "url": "/docs/glorificadores_002/manual.pdf"
+        },
+        {
+          "type": "PDF",
+          "title": "Ficha Técnica",
+          "url": "/docs/glorificadores_002/specs.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": 13,
+    "material_type_id": 1,
+    "category_id": 3,
+    "campaign_id": 1,
+    "brand_id": 1,
+    "sku": "POP-0013",
+    "barcode": "780000000013",
+    "name": "Glorificador Pedestal Negro con Bandeja",
+    "short_description": "Glorificador tipo pedestal negro con bandeja superior para producto individual.",
+    "thumbnail_url": "/materials/glorificadores/material_003/main.png",
+    "unit": "UN",
+    "stock": 113,
+    "reserved_stock": 10,
+    "available_stock": 103,
+    "minimum_stock": 15,
+    "weight_kg": 3.5,
+    "featured": false,
+    "new_product": false,
+    "requires_serial": false,
+    "has_installation": true,
+    "has_warranty": true,
+    "version": "2026",
+    "status": "ACTIVE",
+    "sort_order": 13,
+    "material_details": {
+      "id": 13,
+      "material_id": 13,
+      "long_description": "Glorificador tipo pedestal en acero pintado color negro mate con bandeja superior con borde, ideal para resaltar un producto individual en el punto de venta.",
+      "hero_image": "/materials/glorificadores/material_003/main.png",
+      "gallery": [
+        "/materials/glorificadores/material_003/gallery_01.png",
+        "/materials/glorificadores/material_003/gallery_02.png",
+        "/materials/glorificadores/material_003/gallery_03.png"
+      ],
+      "video_url": null,
+      "technical_specifications": {
+        "material": "Acero pintado",
+        "color": "Negro",
+        "height_cm": 70,
+        "width_cm": 20,
+        "depth_cm": 20,
+        "weight_kg": 3.5,
+        "capacity": "1 producto destacado",
+        "assembly_required": true,
+        "indoor": true,
+        "outdoor": false
+      },
+      "shipping_information": {
+        "packages": 1,
+        "package_weight_kg": 4.5,
+        "fragile": false,
+        "stackable": false
+      },
+      "installation_information": {
+        "difficulty": "BAJA",
+        "estimated_minutes": 10,
+        "people_required": 1
+      },
+      "maintenance_information": {
+        "inspection_days": 90,
+        "cleaning": "Paño seco"
+      },
+      "commercial_information": {
+        "expected_lifetime_months": 60,
+        "recommended_channel": "Tiendas de Especialidad",
+        "campaign_compatible": true
+      },
+      "documents": [
+        {
+          "type": "PDF",
+          "title": "Manual de Instalación",
+          "url": "/docs/glorificadores_003/manual.pdf"
+        },
+        {
+          "type": "PDF",
+          "title": "Ficha Técnica",
+          "url": "/docs/glorificadores_003/specs.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": 14,
+    "material_type_id": 1,
+    "category_id": 3,
+    "campaign_id": 1,
+    "brand_id": 1,
+    "sku": "POP-0014",
+    "barcode": "780000000014",
+    "name": "Glorificador Dorado Dos Niveles",
+    "short_description": "Glorificador de dos niveles con marco dorado y superficies de acrílico transparente.",
+    "thumbnail_url": "/materials/glorificadores/material_004/main.png",
+    "unit": "UN",
+    "stock": 114,
+    "reserved_stock": 10,
+    "available_stock": 104,
+    "minimum_stock": 15,
+    "weight_kg": 3.2,
+    "featured": false,
+    "new_product": false,
+    "requires_serial": false,
+    "has_installation": false,
+    "has_warranty": true,
+    "version": "2026",
+    "status": "ACTIVE",
+    "sort_order": 14,
+    "material_details": {
+      "id": 14,
+      "material_id": 14,
+      "long_description": "Glorificador de dos niveles con marco de aluminio acabado dorado y superficies de acrílico transparente, estética premium orientada a joyería y cosmética de lujo.",
+      "hero_image": "/materials/glorificadores/material_004/main.png",
+      "gallery": [
+        "/materials/glorificadores/material_004/gallery_01.png",
+        "/materials/glorificadores/material_004/gallery_02.png",
+        "/materials/glorificadores/material_004/gallery_03.png"
+      ],
+      "video_url": null,
+      "technical_specifications": {
+        "material": "Acrílico transparente con marco de aluminio dorado",
+        "color": "Dorado/Transparente",
+        "height_cm": 30,
+        "width_cm": 40,
+        "depth_cm": 28,
+        "weight_kg": 3.2,
+        "capacity": "2 niveles para productos pequeños",
+        "assembly_required": false,
+        "indoor": true,
+        "outdoor": false
+      },
+      "shipping_information": {
+        "packages": 1,
+        "package_weight_kg": 4.2,
+        "fragile": true,
+        "stackable": false
+      },
+      "installation_information": {
+        "difficulty": "BAJA",
+        "estimated_minutes": 8,
+        "people_required": 1
+      },
+      "maintenance_information": {
+        "inspection_days": 90,
+        "cleaning": "Paño húmedo"
+      },
+      "commercial_information": {
+        "expected_lifetime_months": 48,
+        "recommended_channel": "Joyería y Cosmética de Lujo",
+        "campaign_compatible": true
+      },
+      "documents": [
+        {
+          "type": "PDF",
+          "title": "Manual de Instalación",
+          "url": "/docs/glorificadores_004/manual.pdf"
+        },
+        {
+          "type": "PDF",
+          "title": "Ficha Técnica",
+          "url": "/docs/glorificadores_004/specs.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": 15,
+    "material_type_id": 1,
+    "category_id": 3,
+    "campaign_id": 1,
+    "brand_id": 1,
+    "sku": "POP-0015",
+    "barcode": "780000000015",
+    "name": "Glorificador Portabotellas de Cartón 15 Espacios",
+    "short_description": "Glorificador portabotellas de cartón corrugado con 15 cavidades circulares.",
+    "thumbnail_url": "/materials/glorificadores/material_005/main.png",
+    "unit": "UN",
+    "stock": 115,
+    "reserved_stock": 10,
+    "available_stock": 105,
+    "minimum_stock": 15,
+    "weight_kg": 5.0,
+    "featured": false,
+    "new_product": false,
+    "requires_serial": false,
+    "has_installation": true,
+    "has_warranty": true,
+    "version": "2026",
+    "status": "ACTIVE",
+    "sort_order": 15,
+    "material_details": {
+      "id": 15,
+      "material_id": 15,
+      "long_description": "Glorificador portabotellas en cartón corrugado con 15 cavidades circulares reforzadas con insertos de acrílico, diseñado para la exhibición vertical de vinos y licores.",
+      "hero_image": "/materials/glorificadores/material_005/main.png",
+      "gallery": [
+        "/materials/glorificadores/material_005/gallery_01.png",
+        "/materials/glorificadores/material_005/gallery_02.png",
+        "/materials/glorificadores/material_005/gallery_03.png"
+      ],
+      "video_url": null,
+      "technical_specifications": {
+        "material": "Cartón corrugado con insertos de acrílico",
+        "color": "Kraft Natural",
+        "height_cm": 75,
+        "width_cm": 35,
+        "depth_cm": 30,
+        "weight_kg": 5.0,
+        "capacity": "15 botellas",
+        "assembly_required": true,
+        "indoor": true,
+        "outdoor": false
+      },
+      "shipping_information": {
+        "packages": 1,
+        "package_weight_kg": 6.0,
+        "fragile": false,
+        "stackable": false
+      },
+      "installation_information": {
+        "difficulty": "MEDIA",
+        "estimated_minutes": 15,
+        "people_required": 1
+      },
+      "maintenance_information": {
+        "inspection_days": 90,
+        "cleaning": "Paño seco"
+      },
+      "commercial_information": {
+        "expected_lifetime_months": 12,
+        "recommended_channel": "Licorerías y Vinotecas",
+        "campaign_compatible": true
+      },
+      "documents": [
+        {
+          "type": "PDF",
+          "title": "Manual de Instalación",
+          "url": "/docs/glorificadores_005/manual.pdf"
+        },
+        {
+          "type": "PDF",
+          "title": "Ficha Técnica",
+          "url": "/docs/glorificadores_005/specs.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": 16,
+    "material_type_id": 1,
+    "category_id": 4,
+    "campaign_id": 1,
+    "brand_id": 1,
+    "sku": "POP-0016",
+    "barcode": "780000000016",
+    "name": "Mostrador de Madera Blanca con Repisas",
+    "short_description": "Mostrador de madera blanca con repisas abiertas laterales.",
+    "thumbnail_url": "/materials/mostradores/material_001/main.png",
+    "unit": "UN",
+    "stock": 116,
+    "reserved_stock": 10,
+    "available_stock": 106,
+    "minimum_stock": 15,
+    "weight_kg": 45.0,
+    "featured": true,
+    "new_product": true,
+    "requires_serial": false,
+    "has_installation": true,
+    "has_warranty": true,
+    "version": "2026",
+    "status": "ACTIVE",
+    "sort_order": 16,
+    "material_details": {
+      "id": 16,
+      "material_id": 16,
+      "long_description": "Mostrador en melamina blanca con repisas abiertas en uno de sus costados, superficie superior amplia para atención al cliente y exhibición de producto complementario.",
+      "hero_image": "/materials/mostradores/material_001/main.png",
+      "gallery": [
+        "/materials/mostradores/material_001/gallery_01.png",
+        "/materials/mostradores/material_001/gallery_02.png",
+        "/materials/mostradores/material_001/gallery_03.png"
+      ],
+      "video_url": null,
+      "technical_specifications": {
+        "material": "Melamina blanca",
+        "color": "Blanco",
+        "height_cm": 95,
+        "width_cm": 120,
+        "depth_cm": 60,
+        "weight_kg": 45.0,
+        "capacity": "2 repisas internas más superficie superior",
+        "assembly_required": true,
+        "indoor": true,
+        "outdoor": false
+      },
+      "shipping_information": {
+        "packages": 1,
+        "package_weight_kg": 48.6,
+        "fragile": false,
+        "stackable": false
+      },
+      "installation_information": {
+        "difficulty": "MEDIA",
+        "estimated_minutes": 40,
+        "people_required": 2
+      },
+      "maintenance_information": {
+        "inspection_days": 90,
+        "cleaning": "Paño seco"
+      },
+      "commercial_information": {
+        "expected_lifetime_months": 84,
+        "recommended_channel": "Tiendas Retail",
+        "campaign_compatible": true
+      },
+      "documents": [
+        {
+          "type": "PDF",
+          "title": "Manual de Instalación",
+          "url": "/docs/mostradores_001/manual.pdf"
+        },
+        {
+          "type": "PDF",
+          "title": "Ficha Técnica",
+          "url": "/docs/mostradores_001/specs.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": 17,
+    "material_type_id": 1,
+    "category_id": 4,
+    "campaign_id": 1,
+    "brand_id": 1,
+    "sku": "POP-0017",
+    "barcode": "780000000017",
+    "name": "Mostrador Móvil con Base Ajustable",
+    "short_description": "Mostrador móvil con base de tijera ajustable en altura para ferias y eventos.",
+    "thumbnail_url": "/materials/mostradores/material_002/main.png",
+    "unit": "UN",
+    "stock": 117,
+    "reserved_stock": 10,
+    "available_stock": 107,
+    "minimum_stock": 15,
+    "weight_kg": 38.0,
+    "featured": false,
+    "new_product": true,
+    "requires_serial": false,
+    "has_installation": true,
+    "has_warranty": true,
+    "version": "2026",
+    "status": "ACTIVE",
+    "sort_order": 17,
+    "material_details": {
+      "id": 17,
+      "material_id": 17,
+      "long_description": "Mostrador con tablero en melamina blanca y estructura de tijera en aluminio que permite ajustar la altura, pensado para ferias, eventos y activaciones temporales.",
+      "hero_image": "/materials/mostradores/material_002/main.png",
+      "gallery": [
+        "/materials/mostradores/material_002/gallery_01.png",
+        "/materials/mostradores/material_002/gallery_02.png",
+        "/materials/mostradores/material_002/gallery_03.png"
+      ],
+      "video_url": null,
+      "technical_specifications": {
+        "material": "Melamina blanca con estructura de aluminio",
+        "color": "Blanco/Plata",
+        "height_cm": 90,
+        "width_cm": 100,
+        "depth_cm": 55,
+        "weight_kg": 38.0,
+        "capacity": "1 compartimento cerrado ajustable en altura",
+        "assembly_required": true,
+        "indoor": true,
+        "outdoor": true
+      },
+      "shipping_information": {
+        "packages": 1,
+        "package_weight_kg": 41.0,
+        "fragile": false,
+        "stackable": false
+      },
+      "installation_information": {
+        "difficulty": "MEDIA",
+        "estimated_minutes": 25,
+        "people_required": 2
+      },
+      "maintenance_information": {
+        "inspection_days": 90,
+        "cleaning": "Paño seco"
+      },
+      "commercial_information": {
+        "expected_lifetime_months": 36,
+        "recommended_channel": "Ferias y Eventos",
+        "campaign_compatible": true
+      },
+      "documents": [
+        {
+          "type": "PDF",
+          "title": "Manual de Instalación",
+          "url": "/docs/mostradores_002/manual.pdf"
+        },
+        {
+          "type": "PDF",
+          "title": "Ficha Técnica",
+          "url": "/docs/mostradores_002/specs.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": 18,
+    "material_type_id": 1,
+    "category_id": 4,
+    "campaign_id": 1,
+    "brand_id": 1,
+    "sku": "POP-0018",
+    "barcode": "780000000018",
+    "name": "Mostrador Curvo de Recepción 3 Módulos",
+    "short_description": "Mostrador curvo de recepción modular en 3 módulos con respaldo.",
+    "thumbnail_url": "/materials/mostradores/material_003/main.png",
+    "unit": "UN",
+    "stock": 118,
+    "reserved_stock": 10,
+    "available_stock": 108,
+    "minimum_stock": 15,
+    "weight_kg": 90.0,
+    "featured": false,
+    "new_product": false,
+    "requires_serial": false,
+    "has_installation": true,
+    "has_warranty": true,
+    "version": "2026",
+    "status": "ACTIVE",
+    "sort_order": 18,
+    "material_details": {
+      "id": 18,
+      "material_id": 18,
+      "long_description": "Mostrador curvo de recepción compuesto por 3 módulos independientes en melamina blanca con cantos de aluminio y respaldo integrado, ideal para lobby o punto de atención.",
+      "hero_image": "/materials/mostradores/material_003/main.png",
+      "gallery": [
+        "/materials/mostradores/material_003/gallery_01.png",
+        "/materials/mostradores/material_003/gallery_02.png",
+        "/materials/mostradores/material_003/gallery_03.png"
+      ],
+      "video_url": null,
+      "technical_specifications": {
+        "material": "Melamina blanca con cantos de aluminio",
+        "color": "Blanco",
+        "height_cm": 110,
+        "width_cm": 240,
+        "depth_cm": 70,
+        "weight_kg": 90.0,
+        "capacity": "3 módulos curvos modulares",
+        "assembly_required": true,
+        "indoor": true,
+        "outdoor": false
+      },
+      "shipping_information": {
+        "packages": 1,
+        "package_weight_kg": 97.2,
+        "fragile": false,
+        "stackable": false
+      },
+      "installation_information": {
+        "difficulty": "ALTA",
+        "estimated_minutes": 90,
+        "people_required": 3
+      },
+      "maintenance_information": {
+        "inspection_days": 90,
+        "cleaning": "Paño seco"
+      },
+      "commercial_information": {
+        "expected_lifetime_months": 96,
+        "recommended_channel": "Recepción y Lobby",
+        "campaign_compatible": true
+      },
+      "documents": [
+        {
+          "type": "PDF",
+          "title": "Manual de Instalación",
+          "url": "/docs/mostradores_003/manual.pdf"
+        },
+        {
+          "type": "PDF",
+          "title": "Ficha Técnica",
+          "url": "/docs/mostradores_003/specs.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": 19,
+    "material_type_id": 1,
+    "category_id": 4,
+    "campaign_id": 1,
+    "brand_id": 1,
+    "sku": "POP-0019",
+    "barcode": "780000000019",
+    "name": "Mostrador POS Bajo Acabado Negro",
+    "short_description": "Mostrador bajo tipo punto de venta en acabado negro mate.",
+    "thumbnail_url": "/materials/mostradores/material_004/main.png",
+    "unit": "UN",
+    "stock": 119,
+    "reserved_stock": 10,
+    "available_stock": 109,
+    "minimum_stock": 15,
+    "weight_kg": 40.0,
+    "featured": false,
+    "new_product": false,
+    "requires_serial": false,
+    "has_installation": true,
+    "has_warranty": true,
+    "version": "2026",
+    "status": "ACTIVE",
+    "sort_order": 19,
+    "material_details": {
+      "id": 19,
+      "material_id": 19,
+      "long_description": "Mostrador bajo en MDF lacado color negro mate con respaldo posterior y compartimento inferior cerrado, diseñado para operar como punto de venta o caja registradora.",
+      "hero_image": "/materials/mostradores/material_004/main.png",
+      "gallery": [
+        "/materials/mostradores/material_004/gallery_01.png",
+        "/materials/mostradores/material_004/gallery_02.png",
+        "/materials/mostradores/material_004/gallery_03.png"
+      ],
+      "video_url": null,
+      "technical_specifications": {
+        "material": "MDF lacado mate",
+        "color": "Negro",
+        "height_cm": 75,
+        "width_cm": 110,
+        "depth_cm": 55,
+        "weight_kg": 40.0,
+        "capacity": "1 compartimento inferior cerrado",
+        "assembly_required": true,
+        "indoor": true,
+        "outdoor": false
+      },
+      "shipping_information": {
+        "packages": 1,
+        "package_weight_kg": 43.2,
+        "fragile": false,
+        "stackable": false
+      },
+      "installation_information": {
+        "difficulty": "MEDIA",
+        "estimated_minutes": 35,
+        "people_required": 2
+      },
+      "maintenance_information": {
+        "inspection_days": 90,
+        "cleaning": "Paño seco"
+      },
+      "commercial_information": {
+        "expected_lifetime_months": 84,
+        "recommended_channel": "Punto de Cobro",
+        "campaign_compatible": true
+      },
+      "documents": [
+        {
+          "type": "PDF",
+          "title": "Manual de Instalación",
+          "url": "/docs/mostradores_004/manual.pdf"
+        },
+        {
+          "type": "PDF",
+          "title": "Ficha Técnica",
+          "url": "/docs/mostradores_004/specs.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": 20,
+    "material_type_id": 1,
+    "category_id": 4,
+    "campaign_id": 1,
+    "brand_id": 1,
+    "sku": "POP-0020",
+    "barcode": "780000000020",
+    "name": "Mostrador de Cartón Corrugado Promocional",
+    "short_description": "Mostrador de cartón corrugado con panel gráfico frontal para promociones temporales.",
+    "thumbnail_url": "/materials/mostradores/material_005/main.png",
+    "unit": "UN",
+    "stock": 120,
+    "reserved_stock": 10,
+    "available_stock": 110,
+    "minimum_stock": 15,
+    "weight_kg": 6.0,
+    "featured": false,
+    "new_product": false,
+    "requires_serial": false,
+    "has_installation": true,
+    "has_warranty": true,
+    "version": "2026",
+    "status": "ACTIVE",
+    "sort_order": 20,
+    "material_details": {
+      "id": 20,
+      "material_id": 20,
+      "long_description": "Mostrador en cartón corrugado triple pared con panel gráfico frontal personalizable y tapa superior, solución económica y desechable para promociones temporales.",
+      "hero_image": "/materials/mostradores/material_005/main.png",
+      "gallery": [
+        "/materials/mostradores/material_005/gallery_01.png",
+        "/materials/mostradores/material_005/gallery_02.png",
+        "/materials/mostradores/material_005/gallery_03.png"
+      ],
+      "video_url": null,
+      "technical_specifications": {
+        "material": "Cartón corrugado triple pared",
+        "color": "Blanco",
+        "height_cm": 90,
+        "width_cm": 80,
+        "depth_cm": 50,
+        "weight_kg": 6.0,
+        "capacity": "1 compartimento de almacenamiento interno",
+        "assembly_required": true,
+        "indoor": true,
+        "outdoor": false
+      },
+      "shipping_information": {
+        "packages": 1,
+        "package_weight_kg": 7.0,
+        "fragile": false,
+        "stackable": true
+      },
+      "installation_information": {
+        "difficulty": "BAJA",
+        "estimated_minutes": 12,
+        "people_required": 1
+      },
+      "maintenance_information": {
+        "inspection_days": 90,
+        "cleaning": "Paño seco"
+      },
+      "commercial_information": {
+        "expected_lifetime_months": 6,
+        "recommended_channel": "Campañas Promocionales",
+        "campaign_compatible": true
+      },
+      "documents": [
+        {
+          "type": "PDF",
+          "title": "Manual de Instalación",
+          "url": "/docs/mostradores_005/manual.pdf"
+        },
+        {
+          "type": "PDF",
+          "title": "Ficha Técnica",
+          "url": "/docs/mostradores_005/specs.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": 21,
+    "material_type_id": 1,
+    "category_id": 5,
+    "campaign_id": 1,
+    "brand_id": 1,
+    "sku": "POP-0021",
+    "barcode": "780000000021",
+    "name": "Tótem Publicitario de Cartón",
+    "short_description": "Tótem publicitario de cartón de gran formato con base plegable.",
+    "thumbnail_url": "/materials/totems_displays/material_001/main.png",
+    "unit": "UN",
+    "stock": 121,
+    "reserved_stock": 10,
+    "available_stock": 111,
+    "minimum_stock": 15,
+    "weight_kg": 5.0,
+    "featured": true,
+    "new_product": true,
+    "requires_serial": false,
+    "has_installation": true,
+    "has_warranty": true,
+    "version": "2026",
+    "status": "ACTIVE",
+    "sort_order": 21,
+    "material_details": {
+      "id": 21,
+      "material_id": 21,
+      "long_description": "Tótem publicitario vertical en cartón corrugado triple pared con panel gráfico de gran formato y base plegable, ideal para señalización temporal de bajo costo.",
+      "hero_image": "/materials/totems_displays/material_001/main.png",
+      "gallery": [
+        "/materials/totems_displays/material_001/gallery_01.png",
+        "/materials/totems_displays/material_001/gallery_02.png",
+        "/materials/totems_displays/material_001/gallery_03.png"
+      ],
+      "video_url": null,
+      "technical_specifications": {
+        "material": "Cartón corrugado triple pared",
+        "color": "Blanco",
+        "height_cm": 180,
+        "width_cm": 45,
+        "depth_cm": 20,
+        "weight_kg": 5.0,
+        "capacity": "1 gráfica de gran formato",
+        "assembly_required": true,
+        "indoor": true,
+        "outdoor": false
+      },
+      "shipping_information": {
+        "packages": 1,
+        "package_weight_kg": 6.0,
+        "fragile": false,
+        "stackable": true
+      },
+      "installation_information": {
+        "difficulty": "BAJA",
+        "estimated_minutes": 10,
+        "people_required": 1
+      },
+      "maintenance_information": {
+        "inspection_days": 90,
+        "cleaning": "Paño seco"
+      },
+      "commercial_information": {
+        "expected_lifetime_months": 6,
+        "recommended_channel": "Campañas Promocionales",
+        "campaign_compatible": true
+      },
+      "documents": [
+        {
+          "type": "PDF",
+          "title": "Manual de Instalación",
+          "url": "/docs/totems_displays_001/manual.pdf"
+        },
+        {
+          "type": "PDF",
+          "title": "Ficha Técnica",
+          "url": "/docs/totems_displays_001/specs.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": 22,
+    "material_type_id": 1,
+    "category_id": 5,
+    "campaign_id": 1,
+    "brand_id": 1,
+    "sku": "POP-0022",
+    "barcode": "780000000022",
+    "name": "Tótem Metálico Portacartel Doble Cara",
+    "short_description": "Tótem metálico portacartel de doble cara con marco de aluminio.",
+    "thumbnail_url": "/materials/totems_displays/material_002/main.png",
+    "unit": "UN",
+    "stock": 122,
+    "reserved_stock": 10,
+    "available_stock": 112,
+    "minimum_stock": 15,
+    "weight_kg": 12.0,
+    "featured": false,
+    "new_product": true,
+    "requires_serial": false,
+    "has_installation": true,
+    "has_warranty": true,
+    "version": "2026",
+    "status": "ACTIVE",
+    "sort_order": 22,
+    "material_details": {
+      "id": 22,
+      "material_id": 22,
+      "long_description": "Tótem metálico portacartel de doble cara con marco de aluminio anodizado y base rectangular estable, apto para uso en interior y exterior en accesos y pasillos.",
+      "hero_image": "/materials/totems_displays/material_002/main.png",
+      "gallery": [
+        "/materials/totems_displays/material_002/gallery_01.png",
+        "/materials/totems_displays/material_002/gallery_02.png",
+        "/materials/totems_displays/material_002/gallery_03.png"
+      ],
+      "video_url": null,
+      "technical_specifications": {
+        "material": "Aluminio anodizado",
+        "color": "Plata",
+        "height_cm": 160,
+        "width_cm": 55,
+        "depth_cm": 30,
+        "weight_kg": 12.0,
+        "capacity": "2 gráficas intercambiables (doble cara)",
+        "assembly_required": true,
+        "indoor": true,
+        "outdoor": true
+      },
+      "shipping_information": {
+        "packages": 1,
+        "package_weight_kg": 13.0,
+        "fragile": false,
+        "stackable": false
+      },
+      "installation_information": {
+        "difficulty": "MEDIA",
+        "estimated_minutes": 20,
+        "people_required": 1
+      },
+      "maintenance_information": {
+        "inspection_days": 90,
+        "cleaning": "Paño húmedo"
+      },
+      "commercial_information": {
+        "expected_lifetime_months": 60,
+        "recommended_channel": "Accesos y Fachadas",
+        "campaign_compatible": true
+      },
+      "documents": [
+        {
+          "type": "PDF",
+          "title": "Manual de Instalación",
+          "url": "/docs/totems_displays_002/manual.pdf"
+        },
+        {
+          "type": "PDF",
+          "title": "Ficha Técnica",
+          "url": "/docs/totems_displays_002/specs.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": 23,
+    "material_type_id": 1,
+    "category_id": 5,
+    "campaign_id": 1,
+    "brand_id": 1,
+    "sku": "POP-0023",
+    "barcode": "780000000023",
+    "name": "Isla de Exhibición Escalonada de Cartón",
+    "short_description": "Isla de exhibición escalonada de cartón con cabecera gráfica para promociones de piso.",
+    "thumbnail_url": "/materials/totems_displays/material_003/main.png",
+    "unit": "UN",
+    "stock": 123,
+    "reserved_stock": 10,
+    "available_stock": 113,
+    "minimum_stock": 15,
+    "weight_kg": 14.0,
+    "featured": false,
+    "new_product": false,
+    "requires_serial": false,
+    "has_installation": true,
+    "has_warranty": true,
+    "version": "2026",
+    "status": "ACTIVE",
+    "sort_order": 23,
+    "material_details": {
+      "id": 23,
+      "material_id": 23,
+      "long_description": "Isla de exhibición escalonada en cartón corrugado triple pared con 3 niveles y cabecera gráfica de gran formato, pensada para promociones de piso en pasillos centrales.",
+      "hero_image": "/materials/totems_displays/material_003/main.png",
+      "gallery": [
+        "/materials/totems_displays/material_003/gallery_01.png",
+        "/materials/totems_displays/material_003/gallery_02.png",
+        "/materials/totems_displays/material_003/gallery_03.png"
+      ],
+      "video_url": null,
+      "technical_specifications": {
+        "material": "Cartón corrugado triple pared",
+        "color": "Blanco",
+        "height_cm": 140,
+        "width_cm": 90,
+        "depth_cm": 80,
+        "weight_kg": 14.0,
+        "capacity": "80 kg distribuidos en 3 niveles",
+        "assembly_required": true,
+        "indoor": true,
+        "outdoor": false
+      },
+      "shipping_information": {
+        "packages": 1,
+        "package_weight_kg": 15.1,
+        "fragile": false,
+        "stackable": true
+      },
+      "installation_information": {
+        "difficulty": "MEDIA",
+        "estimated_minutes": 20,
+        "people_required": 1
+      },
+      "maintenance_information": {
+        "inspection_days": 90,
+        "cleaning": "Paño seco"
+      },
+      "commercial_information": {
+        "expected_lifetime_months": 6,
+        "recommended_channel": "Campañas Promocionales",
+        "campaign_compatible": true
+      },
+      "documents": [
+        {
+          "type": "PDF",
+          "title": "Manual de Instalación",
+          "url": "/docs/totems_displays_003/manual.pdf"
+        },
+        {
+          "type": "PDF",
+          "title": "Ficha Técnica",
+          "url": "/docs/totems_displays_003/specs.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": 24,
+    "material_type_id": 1,
+    "category_id": 5,
+    "campaign_id": 1,
+    "brand_id": 1,
+    "sku": "POP-0024",
+    "barcode": "780000000024",
+    "name": "Contenedor de Cartón para Venta a Granel",
+    "short_description": "Contenedor de cartón corrugado de gran capacidad para venta de producto suelto.",
+    "thumbnail_url": "/materials/totems_displays/material_004/main.png",
+    "unit": "UN",
+    "stock": 124,
+    "reserved_stock": 10,
+    "available_stock": 114,
+    "minimum_stock": 15,
+    "weight_kg": 8.0,
+    "featured": false,
+    "new_product": false,
+    "requires_serial": false,
+    "has_installation": true,
+    "has_warranty": true,
+    "version": "2026",
+    "status": "ACTIVE",
+    "sort_order": 24,
+    "material_details": {
+      "id": 24,
+      "material_id": 24,
+      "long_description": "Contenedor tipo isla en cartón corrugado reforzado de gran capacidad, diseñado para la venta de producto suelto o liquidaciones dentro de tienda.",
+      "hero_image": "/materials/totems_displays/material_004/main.png",
+      "gallery": [
+        "/materials/totems_displays/material_004/gallery_01.png",
+        "/materials/totems_displays/material_004/gallery_02.png",
+        "/materials/totems_displays/material_004/gallery_03.png"
+      ],
+      "video_url": null,
+      "technical_specifications": {
+        "material": "Cartón corrugado reforzado",
+        "color": "Blanco",
+        "height_cm": 75,
+        "width_cm": 80,
+        "depth_cm": 60,
+        "weight_kg": 8.0,
+        "capacity": "100 kg de producto a granel",
+        "assembly_required": true,
+        "indoor": true,
+        "outdoor": false
+      },
+      "shipping_information": {
+        "packages": 1,
+        "package_weight_kg": 9.0,
+        "fragile": false,
+        "stackable": true
+      },
+      "installation_information": {
+        "difficulty": "BAJA",
+        "estimated_minutes": 15,
+        "people_required": 1
+      },
+      "maintenance_information": {
+        "inspection_days": 90,
+        "cleaning": "Paño seco"
+      },
+      "commercial_information": {
+        "expected_lifetime_months": 6,
+        "recommended_channel": "Liquidaciones y Ofertas",
+        "campaign_compatible": true
+      },
+      "documents": [
+        {
+          "type": "PDF",
+          "title": "Manual de Instalación",
+          "url": "/docs/totems_displays_004/manual.pdf"
+        },
+        {
+          "type": "PDF",
+          "title": "Ficha Técnica",
+          "url": "/docs/totems_displays_004/specs.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": 25,
+    "material_type_id": 1,
+    "category_id": 5,
+    "campaign_id": 1,
+    "brand_id": 1,
+    "sku": "POP-0025",
+    "barcode": "780000000025",
+    "name": "Tótem Digital Interactivo con Pantalla",
+    "short_description": "Tótem digital interactivo con pantalla táctil y base metálica.",
+    "thumbnail_url": "/materials/totems_displays/material_005/main.png",
+    "unit": "UN",
+    "stock": 125,
+    "reserved_stock": 10,
+    "available_stock": 115,
+    "minimum_stock": 15,
+    "weight_kg": 32.0,
+    "featured": false,
+    "new_product": false,
+    "requires_serial": false,
+    "has_installation": true,
+    "has_warranty": true,
+    "version": "2026",
+    "status": "ACTIVE",
+    "sort_order": 25,
+    "material_details": {
+      "id": 25,
+      "material_id": 25,
+      "long_description": "Tótem digital interactivo con pantalla táctil de 32 pulgadas y base en acero inoxidable, utilizado para contenido multimedia publicitario y catálogos digitales.",
+      "hero_image": "/materials/totems_displays/material_005/main.png",
+      "gallery": [
+        "/materials/totems_displays/material_005/gallery_01.png",
+        "/materials/totems_displays/material_005/gallery_02.png",
+        "/materials/totems_displays/material_005/gallery_03.png"
+      ],
+      "video_url": null,
+      "technical_specifications": {
+        "material": "Acero inoxidable con pantalla LCD",
+        "color": "Plata/Negro",
+        "height_cm": 165,
+        "width_cm": 40,
+        "depth_cm": 35,
+        "weight_kg": 32.0,
+        "capacity": "1 pantalla táctil de 32 pulgadas",
+        "assembly_required": true,
+        "indoor": true,
+        "outdoor": false
+      },
+      "shipping_information": {
+        "packages": 1,
+        "package_weight_kg": 34.6,
+        "fragile": false,
+        "stackable": false
+      },
+      "installation_information": {
+        "difficulty": "ALTA",
+        "estimated_minutes": 60,
+        "people_required": 2
+      },
+      "maintenance_information": {
+        "inspection_days": 90,
+        "cleaning": "Paño seco"
+      },
+      "commercial_information": {
+        "expected_lifetime_months": 60,
+        "recommended_channel": "Puntos de Información Digital",
+        "campaign_compatible": true
+      },
+      "documents": [
+        {
+          "type": "PDF",
+          "title": "Manual de Instalación",
+          "url": "/docs/totems_displays_005/manual.pdf"
+        },
+        {
+          "type": "PDF",
+          "title": "Ficha Técnica",
+          "url": "/docs/totems_displays_005/specs.pdf"
+        }
+      ]
+    }
+  }
+]
