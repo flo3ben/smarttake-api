@@ -1,0 +1,2462 @@
+[
+  {
+    "id": 1,
+    "material_type_id": 1,
+    "category_id": 1,
+    "campaign_id": 1,
+    "brand_id": 1,
+    "sku": "POP-0001",
+    "barcode": "780000000001",
+    "name": "Anaquel Metálico de 5 Niveles con Refuerzo en Cruz",
+    "short_description": "Anaquel metálico de 5 niveles con refuerzo diagonal en cruz para mayor estabilidad de carga.",
+    "thumbnail_url": "https://flo3ben.github.io/smarttake-api/assets/images/materials/anaqueles/material_001/main.webp",
+    "unit": "UN",
+    "stock": 101,
+    "reserved_stock": 10,
+    "available_stock": 91,
+    "minimum_stock": 15,
+    "weight_kg": 26.0,
+    "featured": true,
+    "new_product": true,
+    "requires_serial": false,
+    "has_installation": true,
+    "has_warranty": true,
+    "version": "2026",
+    "status": "ACTIVE",
+    "sort_order": 1,
+    "material_details": {
+      "id": 1,
+      "material_id": 1,
+      "long_description": "Anaquel de acero pintado con refuerzo diagonal en cruz en ambos costados, 5 niveles de bandejas grises, ideal para bodegas y trastiendas de alto volumen.",
+      "hero_image": "https://flo3ben.github.io/smarttake-api/assets/images/materials/anaqueles/material_001/main.webp",
+      "gallery": [
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/anaqueles/material_001/gallery_01.webp",
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/anaqueles/material_001/gallery_02.webp",
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/anaqueles/material_001/gallery_03.webp"
+      ],
+      "video_url": null,
+      "technical_specifications": {
+        "material": "Acero pintado con refuerzo en cruz",
+        "color": "Negro/Gris",
+        "height_cm": 190,
+        "width_cm": 100,
+        "depth_cm": 45,
+        "weight_kg": 26.0,
+        "capacity": "220 kg distribuidos en 5 niveles",
+        "assembly_required": true,
+        "indoor": true,
+        "outdoor": false
+      },
+      "shipping_information": {
+        "packages": 1,
+        "package_weight_kg": 28.1,
+        "fragile": false,
+        "stackable": false
+      },
+      "installation_information": {
+        "difficulty": "MEDIA",
+        "estimated_minutes": 30,
+        "people_required": 2
+      },
+      "maintenance_information": {
+        "inspection_days": 90,
+        "cleaning": "Paño seco"
+      },
+      "commercial_information": {
+        "expected_lifetime_months": 60,
+        "recommended_channel": "Bodegas y Trastienda",
+        "campaign_compatible": true
+      },
+      "documents": [
+        {
+          "type": "PDF",
+          "title": "Manual de Instalación",
+          "url": "/docs/anaqueles_001/manual.pdf"
+        },
+        {
+          "type": "PDF",
+          "title": "Ficha Técnica",
+          "url": "/docs/anaqueles_001/specs.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "material_type_id": 1,
+    "category_id": 1,
+    "campaign_id": 1,
+    "brand_id": 1,
+    "sku": "POP-0002",
+    "barcode": "780000000002",
+    "name": "Anaquel de Madera y Acero Negro 4 Niveles",
+    "short_description": "Anaquel de madera de roble con estructura de acero negro y diseño abierto minimalista.",
+    "thumbnail_url": "https://flo3ben.github.io/smarttake-api/assets/images/materials/anaqueles/material_002/main.webp",
+    "unit": "UN",
+    "stock": 102,
+    "reserved_stock": 10,
+    "available_stock": 92,
+    "minimum_stock": 15,
+    "weight_kg": 19.0,
+    "featured": false,
+    "new_product": true,
+    "requires_serial": false,
+    "has_installation": true,
+    "has_warranty": true,
+    "version": "2026",
+    "status": "ACTIVE",
+    "sort_order": 2,
+    "material_details": {
+      "id": 2,
+      "material_id": 2,
+      "long_description": "Anaquel de madera de roble natural sobre estructura de acero negro, 4 niveles abiertos, diseñado para tiendas boutique y espacios retail con estética cálida y minimalista.",
+      "hero_image": "https://flo3ben.github.io/smarttake-api/assets/images/materials/anaqueles/material_002/main.webp",
+      "gallery": [
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/anaqueles/material_002/gallery_01.webp",
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/anaqueles/material_002/gallery_02.webp",
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/anaqueles/material_002/gallery_03.webp"
+      ],
+      "video_url": null,
+      "technical_specifications": {
+        "material": "Madera de roble con estructura de acero",
+        "color": "Roble Natural/Negro",
+        "height_cm": 140,
+        "width_cm": 95,
+        "depth_cm": 35,
+        "weight_kg": 19.0,
+        "capacity": "90 kg distribuidos en 4 niveles",
+        "assembly_required": true,
+        "indoor": true,
+        "outdoor": false
+      },
+      "shipping_information": {
+        "packages": 1,
+        "package_weight_kg": 20.5,
+        "fragile": false,
+        "stackable": false
+      },
+      "installation_information": {
+        "difficulty": "MEDIA",
+        "estimated_minutes": 25,
+        "people_required": 2
+      },
+      "maintenance_information": {
+        "inspection_days": 90,
+        "cleaning": "Paño seco"
+      },
+      "commercial_information": {
+        "expected_lifetime_months": 72,
+        "recommended_channel": "Tiendas Boutique",
+        "campaign_compatible": true
+      },
+      "documents": [
+        {
+          "type": "PDF",
+          "title": "Manual de Instalación",
+          "url": "/docs/anaqueles_002/manual.pdf"
+        },
+        {
+          "type": "PDF",
+          "title": "Ficha Técnica",
+          "url": "/docs/anaqueles_002/specs.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "material_type_id": 1,
+    "category_id": 1,
+    "campaign_id": 1,
+    "brand_id": 1,
+    "sku": "POP-0003",
+    "barcode": "780000000003",
+    "name": "Anaquel Modular de Cubos Apilables",
+    "short_description": "Anaquel modular compuesto por cubos blancos apilables y reconfigurables.",
+    "thumbnail_url": "https://flo3ben.github.io/smarttake-api/assets/images/materials/anaqueles/material_003/main.webp",
+    "unit": "UN",
+    "stock": 103,
+    "reserved_stock": 10,
+    "available_stock": 93,
+    "minimum_stock": 15,
+    "weight_kg": 16.0,
+    "featured": false,
+    "new_product": false,
+    "requires_serial": false,
+    "has_installation": true,
+    "has_warranty": true,
+    "version": "2026",
+    "status": "ACTIVE",
+    "sort_order": 3,
+    "material_details": {
+      "id": 3,
+      "material_id": 3,
+      "long_description": "Sistema de anaquel modular compuesto por cubos individuales en MDF lacado blanco/gris, apilables y reconfigurables según necesidad de exhibición, ideal para tiendas de diseño flexible.",
+      "hero_image": "https://flo3ben.github.io/smarttake-api/assets/images/materials/anaqueles/material_003/main.webp",
+      "gallery": [
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/anaqueles/material_003/gallery_01.webp",
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/anaqueles/material_003/gallery_02.webp",
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/anaqueles/material_003/gallery_03.webp"
+      ],
+      "video_url": null,
+      "technical_specifications": {
+        "material": "MDF lacado con conectores plásticos",
+        "color": "Blanco/Gris",
+        "height_cm": 90,
+        "width_cm": 70,
+        "depth_cm": 35,
+        "weight_kg": 16.0,
+        "capacity": "6 cubos modulares apilables",
+        "assembly_required": true,
+        "indoor": true,
+        "outdoor": false
+      },
+      "shipping_information": {
+        "packages": 1,
+        "package_weight_kg": 17.3,
+        "fragile": false,
+        "stackable": false
+      },
+      "installation_information": {
+        "difficulty": "BAJA",
+        "estimated_minutes": 20,
+        "people_required": 1
+      },
+      "maintenance_information": {
+        "inspection_days": 90,
+        "cleaning": "Paño seco"
+      },
+      "commercial_information": {
+        "expected_lifetime_months": 60,
+        "recommended_channel": "Tiendas Retail",
+        "campaign_compatible": true
+      },
+      "documents": [
+        {
+          "type": "PDF",
+          "title": "Manual de Instalación",
+          "url": "/docs/anaqueles_003/manual.pdf"
+        },
+        {
+          "type": "PDF",
+          "title": "Ficha Técnica",
+          "url": "/docs/anaqueles_003/specs.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "material_type_id": 1,
+    "category_id": 1,
+    "campaign_id": 1,
+    "brand_id": 1,
+    "sku": "POP-0004",
+    "barcode": "780000000004",
+    "name": "Anaquel Góndola de Supermercado con Cabecera Promocional",
+    "short_description": "Anaquel góndola de acero negro totalmente abastecido con cabecera gráfica promocional superior.",
+    "thumbnail_url": "https://flo3ben.github.io/smarttake-api/assets/images/materials/anaqueles/material_004/main.webp",
+    "unit": "UN",
+    "stock": 104,
+    "reserved_stock": 10,
+    "available_stock": 94,
+    "minimum_stock": 15,
+    "weight_kg": 42.0,
+    "featured": false,
+    "new_product": false,
+    "requires_serial": false,
+    "has_installation": true,
+    "has_warranty": true,
+    "version": "2026",
+    "status": "ACTIVE",
+    "sort_order": 4,
+    "material_details": {
+      "id": 4,
+      "material_id": 4,
+      "long_description": "Anaquel tipo góndola en acero pintado negro con 4 niveles de bandejas para producto de consumo masivo y cabecera gráfica superior intercambiable para campañas promocionales.",
+      "hero_image": "https://flo3ben.github.io/smarttake-api/assets/images/materials/anaqueles/material_004/main.webp",
+      "gallery": [
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/anaqueles/material_004/gallery_01.webp",
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/anaqueles/material_004/gallery_02.webp",
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/anaqueles/material_004/gallery_03.webp"
+      ],
+      "video_url": null,
+      "technical_specifications": {
+        "material": "Acero pintado",
+        "color": "Negro",
+        "height_cm": 200,
+        "width_cm": 120,
+        "depth_cm": 45,
+        "weight_kg": 42.0,
+        "capacity": "4 niveles para exhibición de productos de consumo masivo",
+        "assembly_required": true,
+        "indoor": true,
+        "outdoor": false
+      },
+      "shipping_information": {
+        "packages": 1,
+        "package_weight_kg": 45.4,
+        "fragile": false,
+        "stackable": false
+      },
+      "installation_information": {
+        "difficulty": "ALTA",
+        "estimated_minutes": 45,
+        "people_required": 2
+      },
+      "maintenance_information": {
+        "inspection_days": 90,
+        "cleaning": "Paño seco"
+      },
+      "commercial_information": {
+        "expected_lifetime_months": 72,
+        "recommended_channel": "Supermercados",
+        "campaign_compatible": true
+      },
+      "documents": [
+        {
+          "type": "PDF",
+          "title": "Manual de Instalación",
+          "url": "/docs/anaqueles_004/manual.pdf"
+        },
+        {
+          "type": "PDF",
+          "title": "Ficha Técnica",
+          "url": "/docs/anaqueles_004/specs.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "material_type_id": 1,
+    "category_id": 1,
+    "campaign_id": 1,
+    "brand_id": 1,
+    "sku": "POP-0005",
+    "barcode": "780000000005",
+    "name": "Anaquel Góndola Doble Cara sobre Ruedas",
+    "short_description": "Anaquel góndola doble cara con panel perforado gris, montado sobre ruedas giratorias.",
+    "thumbnail_url": "https://flo3ben.github.io/smarttake-api/assets/images/materials/anaqueles/material_005/main.webp",
+    "unit": "UN",
+    "stock": 105,
+    "reserved_stock": 10,
+    "available_stock": 95,
+    "minimum_stock": 15,
+    "weight_kg": 48.0,
+    "featured": false,
+    "new_product": false,
+    "requires_serial": false,
+    "has_installation": true,
+    "has_warranty": true,
+    "version": "2026",
+    "status": "ACTIVE",
+    "sort_order": 5,
+    "material_details": {
+      "id": 5,
+      "material_id": 5,
+      "long_description": "Anaquel tipo góndola de doble cara con paneles perforados en acero galvanizado gris, montado sobre base con ruedas giratorias que permiten reubicarlo fácilmente en el punto de venta.",
+      "hero_image": "https://flo3ben.github.io/smarttake-api/assets/images/materials/anaqueles/material_005/main.webp",
+      "gallery": [
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/anaqueles/material_005/gallery_01.webp",
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/anaqueles/material_005/gallery_02.webp",
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/anaqueles/material_005/gallery_03.webp"
+      ],
+      "video_url": null,
+      "technical_specifications": {
+        "material": "Acero galvanizado perforado",
+        "color": "Gris",
+        "height_cm": 150,
+        "width_cm": 120,
+        "depth_cm": 80,
+        "weight_kg": 48.0,
+        "capacity": "6 niveles (3 por cara) sobre ruedas giratorias",
+        "assembly_required": true,
+        "indoor": true,
+        "outdoor": false
+      },
+      "shipping_information": {
+        "packages": 1,
+        "package_weight_kg": 51.8,
+        "fragile": false,
+        "stackable": false
+      },
+      "installation_information": {
+        "difficulty": "ALTA",
+        "estimated_minutes": 45,
+        "people_required": 2
+      },
+      "maintenance_information": {
+        "inspection_days": 90,
+        "cleaning": "Paño seco"
+      },
+      "commercial_information": {
+        "expected_lifetime_months": 84,
+        "recommended_channel": "Supermercados",
+        "campaign_compatible": true
+      },
+      "documents": [
+        {
+          "type": "PDF",
+          "title": "Manual de Instalación",
+          "url": "/docs/anaqueles_005/manual.pdf"
+        },
+        {
+          "type": "PDF",
+          "title": "Ficha Técnica",
+          "url": "/docs/anaqueles_005/specs.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "material_type_id": 1,
+    "category_id": 2,
+    "campaign_id": 1,
+    "brand_id": 1,
+    "sku": "POP-0006",
+    "barcode": "780000000006",
+    "name": "Exhibidor de Piso Blanco 3 Niveles con Detalle Azul",
+    "short_description": "Exhibidor de piso tipo escalera con 3 niveles en blanco y detalles en celeste.",
+    "thumbnail_url": "https://flo3ben.github.io/smarttake-api/assets/images/materials/exhibidores/material_001/main.webp",
+    "unit": "UN",
+    "stock": 106,
+    "reserved_stock": 10,
+    "available_stock": 96,
+    "minimum_stock": 15,
+    "weight_kg": 9.0,
+    "featured": true,
+    "new_product": true,
+    "requires_serial": false,
+    "has_installation": true,
+    "has_warranty": true,
+    "version": "2026",
+    "status": "ACTIVE",
+    "sort_order": 6,
+    "material_details": {
+      "id": 6,
+      "material_id": 6,
+      "long_description": "Exhibidor de piso de perfil angosto tipo escalera, 3 niveles en acabado blanco brillante con detalles en celeste, pensado para presentar productos livianos con buena visibilidad frontal.",
+      "hero_image": "https://flo3ben.github.io/smarttake-api/assets/images/materials/exhibidores/material_001/main.webp",
+      "gallery": [
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/exhibidores/material_001/gallery_01.webp",
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/exhibidores/material_001/gallery_02.webp",
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/exhibidores/material_001/gallery_03.webp"
+      ],
+      "video_url": null,
+      "technical_specifications": {
+        "material": "MDF lacado con acabado brillante",
+        "color": "Blanco/Celeste",
+        "height_cm": 85,
+        "width_cm": 40,
+        "depth_cm": 30,
+        "weight_kg": 9.0,
+        "capacity": "3 niveles para productos livianos",
+        "assembly_required": true,
+        "indoor": true,
+        "outdoor": false
+      },
+      "shipping_information": {
+        "packages": 1,
+        "package_weight_kg": 9.7,
+        "fragile": false,
+        "stackable": false
+      },
+      "installation_information": {
+        "difficulty": "BAJA",
+        "estimated_minutes": 15,
+        "people_required": 1
+      },
+      "maintenance_information": {
+        "inspection_days": 90,
+        "cleaning": "Paño seco"
+      },
+      "commercial_information": {
+        "expected_lifetime_months": 36,
+        "recommended_channel": "Tiendas Retail",
+        "campaign_compatible": true
+      },
+      "documents": [
+        {
+          "type": "PDF",
+          "title": "Manual de Instalación",
+          "url": "/docs/exhibidores_001/manual.pdf"
+        },
+        {
+          "type": "PDF",
+          "title": "Ficha Técnica",
+          "url": "/docs/exhibidores_001/specs.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "material_type_id": 1,
+    "category_id": 2,
+    "campaign_id": 1,
+    "brand_id": 1,
+    "sku": "POP-0007",
+    "barcode": "780000000007",
+    "name": "Exhibidor de Mostrador Blanco 2 Niveles",
+    "short_description": "Exhibidor compacto de mostrador con 2 bandejas en blanco y celeste.",
+    "thumbnail_url": "https://flo3ben.github.io/smarttake-api/assets/images/materials/exhibidores/material_002/main.webp",
+    "unit": "UN",
+    "stock": 107,
+    "reserved_stock": 10,
+    "available_stock": 97,
+    "minimum_stock": 15,
+    "weight_kg": 4.0,
+    "featured": false,
+    "new_product": true,
+    "requires_serial": false,
+    "has_installation": false,
+    "has_warranty": true,
+    "version": "2026",
+    "status": "ACTIVE",
+    "sort_order": 7,
+    "material_details": {
+      "id": 7,
+      "material_id": 7,
+      "long_description": "Exhibidor compacto para mostrador con 2 bandejas superpuestas en acabado blanco con acentos en celeste, formato reducido pensado para productos pequeños cerca de caja.",
+      "hero_image": "https://flo3ben.github.io/smarttake-api/assets/images/materials/exhibidores/material_002/main.webp",
+      "gallery": [
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/exhibidores/material_002/gallery_01.webp",
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/exhibidores/material_002/gallery_02.webp",
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/exhibidores/material_002/gallery_03.webp"
+      ],
+      "video_url": null,
+      "technical_specifications": {
+        "material": "MDF lacado sobre base de aluminio",
+        "color": "Blanco/Celeste",
+        "height_cm": 35,
+        "width_cm": 30,
+        "depth_cm": 30,
+        "weight_kg": 4.0,
+        "capacity": "2 niveles para mostrador",
+        "assembly_required": false,
+        "indoor": true,
+        "outdoor": false
+      },
+      "shipping_information": {
+        "packages": 1,
+        "package_weight_kg": 4.3,
+        "fragile": false,
+        "stackable": false
+      },
+      "installation_information": {
+        "difficulty": "BAJA",
+        "estimated_minutes": 5,
+        "people_required": 1
+      },
+      "maintenance_information": {
+        "inspection_days": 90,
+        "cleaning": "Paño seco"
+      },
+      "commercial_information": {
+        "expected_lifetime_months": 36,
+        "recommended_channel": "Punto de Cobro",
+        "campaign_compatible": true
+      },
+      "documents": [
+        {
+          "type": "PDF",
+          "title": "Manual de Instalación",
+          "url": "/docs/exhibidores_002/manual.pdf"
+        },
+        {
+          "type": "PDF",
+          "title": "Ficha Técnica",
+          "url": "/docs/exhibidores_002/specs.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "material_type_id": 1,
+    "category_id": 2,
+    "campaign_id": 1,
+    "brand_id": 1,
+    "sku": "POP-0008",
+    "barcode": "780000000008",
+    "name": "Exhibidor Giratorio de 4 Brazos",
+    "short_description": "Exhibidor giratorio de mostrador con 4 brazos y bandejas cuadradas.",
+    "thumbnail_url": "https://flo3ben.github.io/smarttake-api/assets/images/materials/exhibidores/material_003/main.webp",
+    "unit": "UN",
+    "stock": 108,
+    "reserved_stock": 10,
+    "available_stock": 98,
+    "minimum_stock": 15,
+    "weight_kg": 3.8,
+    "featured": false,
+    "new_product": false,
+    "requires_serial": false,
+    "has_installation": false,
+    "has_warranty": true,
+    "version": "2026",
+    "status": "ACTIVE",
+    "sort_order": 8,
+    "material_details": {
+      "id": 8,
+      "material_id": 8,
+      "long_description": "Exhibidor giratorio de mostrador en aluminio cepillado con 4 brazos independientes y bandejas acrílicas cuadradas, facilita la rotación y visibilidad de múltiples referencias.",
+      "hero_image": "https://flo3ben.github.io/smarttake-api/assets/images/materials/exhibidores/material_003/main.webp",
+      "gallery": [
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/exhibidores/material_003/gallery_01.webp",
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/exhibidores/material_003/gallery_02.webp",
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/exhibidores/material_003/gallery_03.webp"
+      ],
+      "video_url": null,
+      "technical_specifications": {
+        "material": "Aluminio cepillado con bandejas acrílicas",
+        "color": "Plata/Blanco",
+        "height_cm": 45,
+        "width_cm": 40,
+        "depth_cm": 40,
+        "weight_kg": 3.8,
+        "capacity": "4 brazos giratorios independientes",
+        "assembly_required": false,
+        "indoor": true,
+        "outdoor": false
+      },
+      "shipping_information": {
+        "packages": 1,
+        "package_weight_kg": 4.1,
+        "fragile": false,
+        "stackable": false
+      },
+      "installation_information": {
+        "difficulty": "BAJA",
+        "estimated_minutes": 5,
+        "people_required": 1
+      },
+      "maintenance_information": {
+        "inspection_days": 90,
+        "cleaning": "Paño seco"
+      },
+      "commercial_information": {
+        "expected_lifetime_months": 36,
+        "recommended_channel": "Cosmética y Cuidado Personal",
+        "campaign_compatible": true
+      },
+      "documents": [
+        {
+          "type": "PDF",
+          "title": "Manual de Instalación",
+          "url": "/docs/exhibidores_003/manual.pdf"
+        },
+        {
+          "type": "PDF",
+          "title": "Ficha Técnica",
+          "url": "/docs/exhibidores_003/specs.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "material_type_id": 1,
+    "category_id": 2,
+    "campaign_id": 1,
+    "brand_id": 1,
+    "sku": "POP-0009",
+    "barcode": "780000000009",
+    "name": "Exhibidor Modular de Cubos Blanco",
+    "short_description": "Exhibidor modular de cubos apilables en blanco con detalle celeste.",
+    "thumbnail_url": "https://flo3ben.github.io/smarttake-api/assets/images/materials/exhibidores/material_004/main.webp",
+    "unit": "UN",
+    "stock": 109,
+    "reserved_stock": 10,
+    "available_stock": 99,
+    "minimum_stock": 15,
+    "weight_kg": 12.0,
+    "featured": false,
+    "new_product": false,
+    "requires_serial": false,
+    "has_installation": true,
+    "has_warranty": true,
+    "version": "2026",
+    "status": "ACTIVE",
+    "sort_order": 9,
+    "material_details": {
+      "id": 9,
+      "material_id": 9,
+      "long_description": "Exhibidor modular compuesto por cubos en MDF lacado blanco con detalle celeste, configurable en distintas combinaciones para adaptarse al espacio disponible en tienda.",
+      "hero_image": "https://flo3ben.github.io/smarttake-api/assets/images/materials/exhibidores/material_004/main.webp",
+      "gallery": [
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/exhibidores/material_004/gallery_01.webp",
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/exhibidores/material_004/gallery_02.webp",
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/exhibidores/material_004/gallery_03.webp"
+      ],
+      "video_url": null,
+      "technical_specifications": {
+        "material": "MDF lacado con conectores plásticos",
+        "color": "Blanco/Celeste",
+        "height_cm": 70,
+        "width_cm": 55,
+        "depth_cm": 30,
+        "weight_kg": 12.0,
+        "capacity": "5 cubos modulares",
+        "assembly_required": true,
+        "indoor": true,
+        "outdoor": false
+      },
+      "shipping_information": {
+        "packages": 1,
+        "package_weight_kg": 13.0,
+        "fragile": false,
+        "stackable": false
+      },
+      "installation_information": {
+        "difficulty": "BAJA",
+        "estimated_minutes": 20,
+        "people_required": 1
+      },
+      "maintenance_information": {
+        "inspection_days": 90,
+        "cleaning": "Paño seco"
+      },
+      "commercial_information": {
+        "expected_lifetime_months": 48,
+        "recommended_channel": "Tiendas Retail",
+        "campaign_compatible": true
+      },
+      "documents": [
+        {
+          "type": "PDF",
+          "title": "Manual de Instalación",
+          "url": "/docs/exhibidores_004/manual.pdf"
+        },
+        {
+          "type": "PDF",
+          "title": "Ficha Técnica",
+          "url": "/docs/exhibidores_004/specs.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": 10,
+    "material_type_id": 1,
+    "category_id": 2,
+    "campaign_id": 1,
+    "brand_id": 1,
+    "sku": "POP-0010",
+    "barcode": "780000000010",
+    "name": "Exhibidor Portátil Modular tipo Stand",
+    "short_description": "Stand modular portátil con estructura de aluminio y paneles blancos desmontables.",
+    "thumbnail_url": "https://flo3ben.github.io/smarttake-api/assets/images/materials/exhibidores/material_005/main.webp",
+    "unit": "UN",
+    "stock": 110,
+    "reserved_stock": 10,
+    "available_stock": 100,
+    "minimum_stock": 15,
+    "weight_kg": 15.0,
+    "featured": false,
+    "new_product": false,
+    "requires_serial": false,
+    "has_installation": true,
+    "has_warranty": true,
+    "version": "2026",
+    "status": "ACTIVE",
+    "sort_order": 10,
+    "material_details": {
+      "id": 10,
+      "material_id": 10,
+      "long_description": "Exhibidor tipo stand portátil con estructura de aluminio extruido y paneles desmontables en blanco con detalle celeste, ideal para ferias, activaciones y exhibición temporal.",
+      "hero_image": "https://flo3ben.github.io/smarttake-api/assets/images/materials/exhibidores/material_005/main.webp",
+      "gallery": [
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/exhibidores/material_005/gallery_01.webp",
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/exhibidores/material_005/gallery_02.webp",
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/exhibidores/material_005/gallery_03.webp"
+      ],
+      "video_url": null,
+      "technical_specifications": {
+        "material": "Estructura de aluminio extruido con paneles PVC",
+        "color": "Blanco/Celeste",
+        "height_cm": 140,
+        "width_cm": 120,
+        "depth_cm": 70,
+        "weight_kg": 15.0,
+        "capacity": "Panelería modular desmontable",
+        "assembly_required": true,
+        "indoor": true,
+        "outdoor": true
+      },
+      "shipping_information": {
+        "packages": 1,
+        "package_weight_kg": 16.2,
+        "fragile": false,
+        "stackable": false
+      },
+      "installation_information": {
+        "difficulty": "MEDIA",
+        "estimated_minutes": 30,
+        "people_required": 2
+      },
+      "maintenance_information": {
+        "inspection_days": 90,
+        "cleaning": "Paño seco"
+      },
+      "commercial_information": {
+        "expected_lifetime_months": 24,
+        "recommended_channel": "Ferias y Eventos",
+        "campaign_compatible": true
+      },
+      "documents": [
+        {
+          "type": "PDF",
+          "title": "Manual de Instalación",
+          "url": "/docs/exhibidores_005/manual.pdf"
+        },
+        {
+          "type": "PDF",
+          "title": "Ficha Técnica",
+          "url": "/docs/exhibidores_005/specs.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": 11,
+    "material_type_id": 1,
+    "category_id": 3,
+    "campaign_id": 1,
+    "brand_id": 1,
+    "sku": "POP-0011",
+    "barcode": "780000000011",
+    "name": "Glorificador de Acrílico con Aro Circular",
+    "short_description": "Glorificador de acrílico transparente con aro circular superior para producto único.",
+    "thumbnail_url": "https://flo3ben.github.io/smarttake-api/assets/images/materials/glorificadores/material_001/main.webp",
+    "unit": "UN",
+    "stock": 111,
+    "reserved_stock": 10,
+    "available_stock": 101,
+    "minimum_stock": 15,
+    "weight_kg": 1.1,
+    "featured": true,
+    "new_product": true,
+    "requires_serial": false,
+    "has_installation": false,
+    "has_warranty": true,
+    "version": "2026",
+    "status": "ACTIVE",
+    "sort_order": 11,
+    "material_details": {
+      "id": 11,
+      "material_id": 11,
+      "long_description": "Glorificador en acrílico transparente con aro circular en la parte superior sobre base cuadrada, diseñado para destacar un único producto premium con máxima visibilidad.",
+      "hero_image": "https://flo3ben.github.io/smarttake-api/assets/images/materials/glorificadores/material_001/main.webp",
+      "gallery": [
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/glorificadores/material_001/gallery_01.webp",
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/glorificadores/material_001/gallery_02.webp",
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/glorificadores/material_001/gallery_03.webp"
+      ],
+      "video_url": null,
+      "technical_specifications": {
+        "material": "Acrílico transparente",
+        "color": "Transparente",
+        "height_cm": 30,
+        "width_cm": 18,
+        "depth_cm": 18,
+        "weight_kg": 1.1,
+        "capacity": "1 producto destacado",
+        "assembly_required": false,
+        "indoor": true,
+        "outdoor": false
+      },
+      "shipping_information": {
+        "packages": 1,
+        "package_weight_kg": 1.2,
+        "fragile": true,
+        "stackable": false
+      },
+      "installation_information": {
+        "difficulty": "BAJA",
+        "estimated_minutes": 5,
+        "people_required": 1
+      },
+      "maintenance_information": {
+        "inspection_days": 90,
+        "cleaning": "Paño húmedo"
+      },
+      "commercial_information": {
+        "expected_lifetime_months": 48,
+        "recommended_channel": "Vitrinas Premium",
+        "campaign_compatible": true
+      },
+      "documents": [
+        {
+          "type": "PDF",
+          "title": "Manual de Instalación",
+          "url": "/docs/glorificadores_001/manual.pdf"
+        },
+        {
+          "type": "PDF",
+          "title": "Ficha Técnica",
+          "url": "/docs/glorificadores_001/specs.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": 12,
+    "material_type_id": 1,
+    "category_id": 3,
+    "campaign_id": 1,
+    "brand_id": 1,
+    "sku": "POP-0012",
+    "barcode": "780000000012",
+    "name": "Glorificador Refrigerado con Pantalla Digital",
+    "short_description": "Glorificador iluminado con pantalla digital de temperatura para botellas premium.",
+    "thumbnail_url": "https://flo3ben.github.io/smarttake-api/assets/images/materials/glorificadores/material_002/main.webp",
+    "unit": "UN",
+    "stock": 112,
+    "reserved_stock": 10,
+    "available_stock": 102,
+    "minimum_stock": 15,
+    "weight_kg": 2.8,
+    "featured": false,
+    "new_product": true,
+    "requires_serial": false,
+    "has_installation": false,
+    "has_warranty": true,
+    "version": "2026",
+    "status": "ACTIVE",
+    "sort_order": 12,
+    "material_details": {
+      "id": 12,
+      "material_id": 12,
+      "long_description": "Glorificador tipo pedestal con iluminación LED perimetral y pantalla digital que indica temperatura de servicio, diseñado para exhibir una botella premium con presentación destacada.",
+      "hero_image": "https://flo3ben.github.io/smarttake-api/assets/images/materials/glorificadores/material_002/main.webp",
+      "gallery": [
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/glorificadores/material_002/gallery_01.webp",
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/glorificadores/material_002/gallery_02.webp",
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/glorificadores/material_002/gallery_03.webp"
+      ],
+      "video_url": null,
+      "technical_specifications": {
+        "material": "Acero cepillado con acrílico y pantalla LED",
+        "color": "Negro/Cian",
+        "height_cm": 25,
+        "width_cm": 18,
+        "depth_cm": 18,
+        "weight_kg": 2.8,
+        "capacity": "1 botella con control de temperatura",
+        "assembly_required": false,
+        "indoor": true,
+        "outdoor": false
+      },
+      "shipping_information": {
+        "packages": 1,
+        "package_weight_kg": 3.0,
+        "fragile": true,
+        "stackable": false
+      },
+      "installation_information": {
+        "difficulty": "BAJA",
+        "estimated_minutes": 10,
+        "people_required": 1
+      },
+      "maintenance_information": {
+        "inspection_days": 90,
+        "cleaning": "Paño húmedo"
+      },
+      "commercial_information": {
+        "expected_lifetime_months": 36,
+        "recommended_channel": "Licorerías y Vinotecas",
+        "campaign_compatible": true
+      },
+      "documents": [
+        {
+          "type": "PDF",
+          "title": "Manual de Instalación",
+          "url": "/docs/glorificadores_002/manual.pdf"
+        },
+        {
+          "type": "PDF",
+          "title": "Ficha Técnica",
+          "url": "/docs/glorificadores_002/specs.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": 13,
+    "material_type_id": 1,
+    "category_id": 3,
+    "campaign_id": 1,
+    "brand_id": 1,
+    "sku": "POP-0013",
+    "barcode": "780000000013",
+    "name": "Glorificador con Base Iluminada y Cuna Curva",
+    "short_description": "Glorificador de acero cepillado con cuna curva y base circular iluminada en cian.",
+    "thumbnail_url": "https://flo3ben.github.io/smarttake-api/assets/images/materials/glorificadores/material_003/main.webp",
+    "unit": "UN",
+    "stock": 113,
+    "reserved_stock": 10,
+    "available_stock": 103,
+    "minimum_stock": 15,
+    "weight_kg": 2.2,
+    "featured": false,
+    "new_product": false,
+    "requires_serial": false,
+    "has_installation": false,
+    "has_warranty": true,
+    "version": "2026",
+    "status": "ACTIVE",
+    "sort_order": 13,
+    "material_details": {
+      "id": 13,
+      "material_id": 13,
+      "long_description": "Glorificador con cuna curva en acero cepillado y base circular con iluminación LED en tono cian, diseñado para presentar un producto individual con efecto de flotación.",
+      "hero_image": "https://flo3ben.github.io/smarttake-api/assets/images/materials/glorificadores/material_003/main.webp",
+      "gallery": [
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/glorificadores/material_003/gallery_01.webp",
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/glorificadores/material_003/gallery_02.webp",
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/glorificadores/material_003/gallery_03.webp"
+      ],
+      "video_url": null,
+      "technical_specifications": {
+        "material": "Aluminio cepillado con iluminación LED",
+        "color": "Plata/Cian",
+        "height_cm": 30,
+        "width_cm": 20,
+        "depth_cm": 18,
+        "weight_kg": 2.2,
+        "capacity": "1 producto destacado",
+        "assembly_required": false,
+        "indoor": true,
+        "outdoor": false
+      },
+      "shipping_information": {
+        "packages": 1,
+        "package_weight_kg": 2.4,
+        "fragile": false,
+        "stackable": false
+      },
+      "installation_information": {
+        "difficulty": "BAJA",
+        "estimated_minutes": 10,
+        "people_required": 1
+      },
+      "maintenance_information": {
+        "inspection_days": 90,
+        "cleaning": "Paño seco"
+      },
+      "commercial_information": {
+        "expected_lifetime_months": 48,
+        "recommended_channel": "Tiendas de Especialidad",
+        "campaign_compatible": true
+      },
+      "documents": [
+        {
+          "type": "PDF",
+          "title": "Manual de Instalación",
+          "url": "/docs/glorificadores_003/manual.pdf"
+        },
+        {
+          "type": "PDF",
+          "title": "Ficha Técnica",
+          "url": "/docs/glorificadores_003/specs.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": 14,
+    "material_type_id": 1,
+    "category_id": 3,
+    "campaign_id": 1,
+    "brand_id": 1,
+    "sku": "POP-0014",
+    "barcode": "780000000014",
+    "name": "Glorificador Blanco con Base Iluminada",
+    "short_description": "Glorificador blanco con cuna curva y base iluminada en cian, versión compacta.",
+    "thumbnail_url": "https://flo3ben.github.io/smarttake-api/assets/images/materials/glorificadores/material_004/main.webp",
+    "unit": "UN",
+    "stock": 114,
+    "reserved_stock": 10,
+    "available_stock": 104,
+    "minimum_stock": 15,
+    "weight_kg": 1.6,
+    "featured": false,
+    "new_product": false,
+    "requires_serial": false,
+    "has_installation": false,
+    "has_warranty": true,
+    "version": "2026",
+    "status": "ACTIVE",
+    "sort_order": 14,
+    "material_details": {
+      "id": 14,
+      "material_id": 14,
+      "long_description": "Versión compacta del glorificador con cuna curva, en acabado blanco con base circular iluminada en tono cian, pensado para productos de menor tamaño en mostrador.",
+      "hero_image": "https://flo3ben.github.io/smarttake-api/assets/images/materials/glorificadores/material_004/main.webp",
+      "gallery": [
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/glorificadores/material_004/gallery_01.webp",
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/glorificadores/material_004/gallery_02.webp",
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/glorificadores/material_004/gallery_03.webp"
+      ],
+      "video_url": null,
+      "technical_specifications": {
+        "material": "ABS blanco con iluminación LED",
+        "color": "Blanco/Cian",
+        "height_cm": 22,
+        "width_cm": 16,
+        "depth_cm": 14,
+        "weight_kg": 1.6,
+        "capacity": "1 producto destacado",
+        "assembly_required": false,
+        "indoor": true,
+        "outdoor": false
+      },
+      "shipping_information": {
+        "packages": 1,
+        "package_weight_kg": 1.7,
+        "fragile": true,
+        "stackable": false
+      },
+      "installation_information": {
+        "difficulty": "BAJA",
+        "estimated_minutes": 8,
+        "people_required": 1
+      },
+      "maintenance_information": {
+        "inspection_days": 90,
+        "cleaning": "Paño seco"
+      },
+      "commercial_information": {
+        "expected_lifetime_months": 36,
+        "recommended_channel": "Tiendas de Especialidad",
+        "campaign_compatible": true
+      },
+      "documents": [
+        {
+          "type": "PDF",
+          "title": "Manual de Instalación",
+          "url": "/docs/glorificadores_004/manual.pdf"
+        },
+        {
+          "type": "PDF",
+          "title": "Ficha Técnica",
+          "url": "/docs/glorificadores_004/specs.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": 15,
+    "material_type_id": 1,
+    "category_id": 3,
+    "campaign_id": 1,
+    "brand_id": 1,
+    "sku": "POP-0015",
+    "barcode": "780000000015",
+    "name": "Glorificador Circular Iluminado con Base Giratoria",
+    "short_description": "Glorificador circular metálico con aro LED y base giratoria retroiluminada.",
+    "thumbnail_url": "https://flo3ben.github.io/smarttake-api/assets/images/materials/glorificadores/material_005/main.webp",
+    "unit": "UN",
+    "stock": 115,
+    "reserved_stock": 10,
+    "available_stock": 105,
+    "minimum_stock": 15,
+    "weight_kg": 1.4,
+    "featured": false,
+    "new_product": false,
+    "requires_serial": false,
+    "has_installation": false,
+    "has_warranty": true,
+    "version": "2026",
+    "status": "ACTIVE",
+    "sort_order": 15,
+    "material_details": {
+      "id": 15,
+      "material_id": 15,
+      "long_description": "Glorificador circular en aluminio cepillado con aro de iluminación LED perimetral y base giratoria, diseñado como pieza central de exhibición para un producto tecnológico o premium.",
+      "hero_image": "https://flo3ben.github.io/smarttake-api/assets/images/materials/glorificadores/material_005/main.webp",
+      "gallery": [
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/glorificadores/material_005/gallery_01.webp",
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/glorificadores/material_005/gallery_02.webp",
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/glorificadores/material_005/gallery_03.webp"
+      ],
+      "video_url": null,
+      "technical_specifications": {
+        "material": "Aluminio cepillado con anillo LED",
+        "color": "Plata/Cian",
+        "height_cm": 15,
+        "width_cm": 22,
+        "depth_cm": 22,
+        "weight_kg": 1.4,
+        "capacity": "1 producto destacado con base circular",
+        "assembly_required": false,
+        "indoor": true,
+        "outdoor": false
+      },
+      "shipping_information": {
+        "packages": 1,
+        "package_weight_kg": 1.5,
+        "fragile": false,
+        "stackable": false
+      },
+      "installation_information": {
+        "difficulty": "BAJA",
+        "estimated_minutes": 8,
+        "people_required": 1
+      },
+      "maintenance_information": {
+        "inspection_days": 90,
+        "cleaning": "Paño seco"
+      },
+      "commercial_information": {
+        "expected_lifetime_months": 36,
+        "recommended_channel": "Vitrinas Premium",
+        "campaign_compatible": true
+      },
+      "documents": [
+        {
+          "type": "PDF",
+          "title": "Manual de Instalación",
+          "url": "/docs/glorificadores_005/manual.pdf"
+        },
+        {
+          "type": "PDF",
+          "title": "Ficha Técnica",
+          "url": "/docs/glorificadores_005/specs.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": 16,
+    "material_type_id": 1,
+    "category_id": 4,
+    "campaign_id": 1,
+    "brand_id": 1,
+    "sku": "POP-0016",
+    "barcode": "780000000016",
+    "name": "Mostrador Modular Curvo Blanco",
+    "short_description": "Mostrador modular curvo en blanco con estructura de aluminio y detalle cian.",
+    "thumbnail_url": "https://flo3ben.github.io/smarttake-api/assets/images/materials/mostradores/material_001/main.webp",
+    "unit": "UN",
+    "stock": 116,
+    "reserved_stock": 10,
+    "available_stock": 106,
+    "minimum_stock": 15,
+    "weight_kg": 42.0,
+    "featured": true,
+    "new_product": true,
+    "requires_serial": false,
+    "has_installation": true,
+    "has_warranty": true,
+    "version": "2026",
+    "status": "ACTIVE",
+    "sort_order": 16,
+    "material_details": {
+      "id": 16,
+      "material_id": 16,
+      "long_description": "Mostrador de recepción con frente curvo modular en melamina blanca sobre estructura de aluminio extruido con detalle en cian, incluye repisas internas para almacenamiento.",
+      "hero_image": "https://flo3ben.github.io/smarttake-api/assets/images/materials/mostradores/material_001/main.webp",
+      "gallery": [
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/mostradores/material_001/gallery_01.webp",
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/mostradores/material_001/gallery_02.webp",
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/mostradores/material_001/gallery_03.webp"
+      ],
+      "video_url": null,
+      "technical_specifications": {
+        "material": "Melamina blanca sobre estructura de aluminio extruido",
+        "color": "Blanco/Cian",
+        "height_cm": 95,
+        "width_cm": 120,
+        "depth_cm": 65,
+        "weight_kg": 42.0,
+        "capacity": "2 repisas internas",
+        "assembly_required": true,
+        "indoor": true,
+        "outdoor": false
+      },
+      "shipping_information": {
+        "packages": 1,
+        "package_weight_kg": 45.4,
+        "fragile": false,
+        "stackable": false
+      },
+      "installation_information": {
+        "difficulty": "MEDIA",
+        "estimated_minutes": 40,
+        "people_required": 2
+      },
+      "maintenance_information": {
+        "inspection_days": 90,
+        "cleaning": "Paño seco"
+      },
+      "commercial_information": {
+        "expected_lifetime_months": 84,
+        "recommended_channel": "Recepción y Lobby",
+        "campaign_compatible": true
+      },
+      "documents": [
+        {
+          "type": "PDF",
+          "title": "Manual de Instalación",
+          "url": "/docs/mostradores_001/manual.pdf"
+        },
+        {
+          "type": "PDF",
+          "title": "Ficha Técnica",
+          "url": "/docs/mostradores_001/specs.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": 17,
+    "material_type_id": 1,
+    "category_id": 4,
+    "campaign_id": 1,
+    "brand_id": 1,
+    "sku": "POP-0017",
+    "barcode": "780000000017",
+    "name": "Mostrador Modular Aluminio Blanco",
+    "short_description": "Mostrador modular rectangular en blanco con estructura de aluminio extruido.",
+    "thumbnail_url": "https://flo3ben.github.io/smarttake-api/assets/images/materials/mostradores/material_002/main.webp",
+    "unit": "UN",
+    "stock": 117,
+    "reserved_stock": 10,
+    "available_stock": 107,
+    "minimum_stock": 15,
+    "weight_kg": 35.0,
+    "featured": false,
+    "new_product": true,
+    "requires_serial": false,
+    "has_installation": true,
+    "has_warranty": true,
+    "version": "2026",
+    "status": "ACTIVE",
+    "sort_order": 17,
+    "material_details": {
+      "id": 17,
+      "material_id": 17,
+      "long_description": "Mostrador modular de cuerpo cerrado en melamina blanca sobre estructura de aluminio extruido con conectores en cian, formato rectangular versátil para punto de venta.",
+      "hero_image": "https://flo3ben.github.io/smarttake-api/assets/images/materials/mostradores/material_002/main.webp",
+      "gallery": [
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/mostradores/material_002/gallery_01.webp",
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/mostradores/material_002/gallery_02.webp",
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/mostradores/material_002/gallery_03.webp"
+      ],
+      "video_url": null,
+      "technical_specifications": {
+        "material": "Melamina blanca sobre estructura de aluminio extruido",
+        "color": "Blanco/Cian",
+        "height_cm": 90,
+        "width_cm": 110,
+        "depth_cm": 55,
+        "weight_kg": 35.0,
+        "capacity": "Cuerpo cerrado modular",
+        "assembly_required": true,
+        "indoor": true,
+        "outdoor": false
+      },
+      "shipping_information": {
+        "packages": 1,
+        "package_weight_kg": 37.8,
+        "fragile": false,
+        "stackable": false
+      },
+      "installation_information": {
+        "difficulty": "MEDIA",
+        "estimated_minutes": 30,
+        "people_required": 2
+      },
+      "maintenance_information": {
+        "inspection_days": 90,
+        "cleaning": "Paño seco"
+      },
+      "commercial_information": {
+        "expected_lifetime_months": 72,
+        "recommended_channel": "Tiendas Retail",
+        "campaign_compatible": true
+      },
+      "documents": [
+        {
+          "type": "PDF",
+          "title": "Manual de Instalación",
+          "url": "/docs/mostradores_002/manual.pdf"
+        },
+        {
+          "type": "PDF",
+          "title": "Ficha Técnica",
+          "url": "/docs/mostradores_002/specs.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": 18,
+    "material_type_id": 1,
+    "category_id": 4,
+    "campaign_id": 1,
+    "brand_id": 1,
+    "sku": "POP-0018",
+    "barcode": "780000000018",
+    "name": "Mostrador Modular en L de Dos Niveles",
+    "short_description": "Mostrador modular en configuración en L con dos niveles de superficie.",
+    "thumbnail_url": "https://flo3ben.github.io/smarttake-api/assets/images/materials/mostradores/material_003/main.webp",
+    "unit": "UN",
+    "stock": 118,
+    "reserved_stock": 10,
+    "available_stock": 108,
+    "minimum_stock": 15,
+    "weight_kg": 55.0,
+    "featured": false,
+    "new_product": false,
+    "requires_serial": false,
+    "has_installation": true,
+    "has_warranty": true,
+    "version": "2026",
+    "status": "ACTIVE",
+    "sort_order": 18,
+    "material_details": {
+      "id": 18,
+      "material_id": 18,
+      "long_description": "Mostrador modular en configuración de esquina en L, compuesto por melamina blanca sobre estructura de aluminio extruido con dos niveles de superficie de trabajo.",
+      "hero_image": "https://flo3ben.github.io/smarttake-api/assets/images/materials/mostradores/material_003/main.webp",
+      "gallery": [
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/mostradores/material_003/gallery_01.webp",
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/mostradores/material_003/gallery_02.webp",
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/mostradores/material_003/gallery_03.webp"
+      ],
+      "video_url": null,
+      "technical_specifications": {
+        "material": "Melamina blanca sobre estructura de aluminio extruido",
+        "color": "Blanco/Cian",
+        "height_cm": 95,
+        "width_cm": 140,
+        "depth_cm": 100,
+        "weight_kg": 55.0,
+        "capacity": "Configuración en L de dos niveles",
+        "assembly_required": true,
+        "indoor": true,
+        "outdoor": false
+      },
+      "shipping_information": {
+        "packages": 1,
+        "package_weight_kg": 59.4,
+        "fragile": false,
+        "stackable": false
+      },
+      "installation_information": {
+        "difficulty": "ALTA",
+        "estimated_minutes": 60,
+        "people_required": 2
+      },
+      "maintenance_information": {
+        "inspection_days": 90,
+        "cleaning": "Paño seco"
+      },
+      "commercial_information": {
+        "expected_lifetime_months": 84,
+        "recommended_channel": "Recepción y Lobby",
+        "campaign_compatible": true
+      },
+      "documents": [
+        {
+          "type": "PDF",
+          "title": "Manual de Instalación",
+          "url": "/docs/mostradores_003/manual.pdf"
+        },
+        {
+          "type": "PDF",
+          "title": "Ficha Técnica",
+          "url": "/docs/mostradores_003/specs.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": 19,
+    "material_type_id": 1,
+    "category_id": 4,
+    "campaign_id": 1,
+    "brand_id": 1,
+    "sku": "POP-0019",
+    "barcode": "780000000019",
+    "name": "Mostrador de Recepción Premium con Iluminación LED",
+    "short_description": "Mostrador de recepción premium con cubierta lacada blanca, cantos de madera y base LED.",
+    "thumbnail_url": "https://flo3ben.github.io/smarttake-api/assets/images/materials/mostradores/material_004/main.webp",
+    "unit": "UN",
+    "stock": 119,
+    "reserved_stock": 10,
+    "available_stock": 109,
+    "minimum_stock": 15,
+    "weight_kg": 68.0,
+    "featured": false,
+    "new_product": false,
+    "requires_serial": false,
+    "has_installation": true,
+    "has_warranty": true,
+    "version": "2026",
+    "status": "ACTIVE",
+    "sort_order": 19,
+    "material_details": {
+      "id": 19,
+      "material_id": 19,
+      "long_description": "Mostrador de recepción de gama premium con cubierta lacada blanca de acabado brillante, cantos en madera de roble y franja de iluminación LED perimetral en la base, gabinete inferior cerrado.",
+      "hero_image": "https://flo3ben.github.io/smarttake-api/assets/images/materials/mostradores/material_004/main.webp",
+      "gallery": [
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/mostradores/material_004/gallery_01.webp",
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/mostradores/material_004/gallery_02.webp",
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/mostradores/material_004/gallery_03.webp"
+      ],
+      "video_url": null,
+      "technical_specifications": {
+        "material": "Melamina gris con cubierta lacada blanca, cantos de madera y LED perimetral",
+        "color": "Gris/Blanco/Roble",
+        "height_cm": 105,
+        "width_cm": 160,
+        "depth_cm": 60,
+        "weight_kg": 68.0,
+        "capacity": "1 compartimento inferior cerrado",
+        "assembly_required": true,
+        "indoor": true,
+        "outdoor": false
+      },
+      "shipping_information": {
+        "packages": 1,
+        "package_weight_kg": 73.4,
+        "fragile": false,
+        "stackable": false
+      },
+      "installation_information": {
+        "difficulty": "ALTA",
+        "estimated_minutes": 50,
+        "people_required": 2
+      },
+      "maintenance_information": {
+        "inspection_days": 90,
+        "cleaning": "Paño seco"
+      },
+      "commercial_information": {
+        "expected_lifetime_months": 96,
+        "recommended_channel": "Recepción y Lobby",
+        "campaign_compatible": true
+      },
+      "documents": [
+        {
+          "type": "PDF",
+          "title": "Manual de Instalación",
+          "url": "/docs/mostradores_004/manual.pdf"
+        },
+        {
+          "type": "PDF",
+          "title": "Ficha Técnica",
+          "url": "/docs/mostradores_004/specs.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": 20,
+    "material_type_id": 1,
+    "category_id": 4,
+    "campaign_id": 1,
+    "brand_id": 1,
+    "sku": "POP-0020",
+    "barcode": "780000000020",
+    "name": "Mostrador con Repisa Superior y Bandejas Exhibidoras",
+    "short_description": "Mostrador modular con repisa superior y tres bandejas exhibidoras.",
+    "thumbnail_url": "https://flo3ben.github.io/smarttake-api/assets/images/materials/mostradores/material_005/main.webp",
+    "unit": "UN",
+    "stock": 120,
+    "reserved_stock": 10,
+    "available_stock": 110,
+    "minimum_stock": 15,
+    "weight_kg": 38.0,
+    "featured": false,
+    "new_product": false,
+    "requires_serial": false,
+    "has_installation": true,
+    "has_warranty": true,
+    "version": "2026",
+    "status": "ACTIVE",
+    "sort_order": 20,
+    "material_details": {
+      "id": 20,
+      "material_id": 20,
+      "long_description": "Mostrador modular en melamina blanca sobre estructura de aluminio extruido, incorpora una repisa superior con tres bandejas para exhibir producto complementario junto al punto de atención.",
+      "hero_image": "https://flo3ben.github.io/smarttake-api/assets/images/materials/mostradores/material_005/main.webp",
+      "gallery": [
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/mostradores/material_005/gallery_01.webp",
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/mostradores/material_005/gallery_02.webp",
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/mostradores/material_005/gallery_03.webp"
+      ],
+      "video_url": null,
+      "technical_specifications": {
+        "material": "Melamina blanca sobre estructura de aluminio extruido",
+        "color": "Blanco/Cian",
+        "height_cm": 110,
+        "width_cm": 100,
+        "depth_cm": 45,
+        "weight_kg": 38.0,
+        "capacity": "3 bandejas exhibidoras superiores",
+        "assembly_required": true,
+        "indoor": true,
+        "outdoor": false
+      },
+      "shipping_information": {
+        "packages": 1,
+        "package_weight_kg": 41.0,
+        "fragile": false,
+        "stackable": false
+      },
+      "installation_information": {
+        "difficulty": "MEDIA",
+        "estimated_minutes": 35,
+        "people_required": 2
+      },
+      "maintenance_information": {
+        "inspection_days": 90,
+        "cleaning": "Paño seco"
+      },
+      "commercial_information": {
+        "expected_lifetime_months": 72,
+        "recommended_channel": "Tiendas Retail",
+        "campaign_compatible": true
+      },
+      "documents": [
+        {
+          "type": "PDF",
+          "title": "Manual de Instalación",
+          "url": "/docs/mostradores_005/manual.pdf"
+        },
+        {
+          "type": "PDF",
+          "title": "Ficha Técnica",
+          "url": "/docs/mostradores_005/specs.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": 21,
+    "material_type_id": 1,
+    "category_id": 5,
+    "campaign_id": 1,
+    "brand_id": 1,
+    "sku": "POP-0021",
+    "barcode": "780000000021",
+    "name": "Tótem Digital de Señalización Vertical",
+    "short_description": "Tótem digital vertical con pantalla integrada para señalización en punto de venta.",
+    "thumbnail_url": "https://flo3ben.github.io/smarttake-api/assets/images/materials/totems_displays/material_001/main.webp",
+    "unit": "UN",
+    "stock": 121,
+    "reserved_stock": 10,
+    "available_stock": 111,
+    "minimum_stock": 15,
+    "weight_kg": 28.0,
+    "featured": true,
+    "new_product": true,
+    "requires_serial": false,
+    "has_installation": true,
+    "has_warranty": true,
+    "version": "2026",
+    "status": "ACTIVE",
+    "sort_order": 21,
+    "material_details": {
+      "id": 21,
+      "material_id": 21,
+      "long_description": "Tótem de señalización digital con chasis de aluminio plateado y pantalla vertical integrada de gran formato, diseñado para reproducir contenido gráfico y publicitario dinámico.",
+      "hero_image": "https://flo3ben.github.io/smarttake-api/assets/images/materials/totems_displays/material_001/main.webp",
+      "gallery": [
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/totems_displays/material_001/gallery_01.webp",
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/totems_displays/material_001/gallery_02.webp",
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/totems_displays/material_001/gallery_03.webp"
+      ],
+      "video_url": null,
+      "technical_specifications": {
+        "material": "Chasis de aluminio con pantalla LED integrada",
+        "color": "Plata",
+        "height_cm": 180,
+        "width_cm": 45,
+        "depth_cm": 20,
+        "weight_kg": 28.0,
+        "capacity": "1 pantalla digital vertical",
+        "assembly_required": true,
+        "indoor": true,
+        "outdoor": false
+      },
+      "shipping_information": {
+        "packages": 1,
+        "package_weight_kg": 30.2,
+        "fragile": false,
+        "stackable": false
+      },
+      "installation_information": {
+        "difficulty": "MEDIA",
+        "estimated_minutes": 40,
+        "people_required": 2
+      },
+      "maintenance_information": {
+        "inspection_days": 90,
+        "cleaning": "Paño seco"
+      },
+      "commercial_information": {
+        "expected_lifetime_months": 60,
+        "recommended_channel": "Comunicación Digital en Tienda",
+        "campaign_compatible": true
+      },
+      "documents": [
+        {
+          "type": "PDF",
+          "title": "Manual de Instalación",
+          "url": "/docs/totems_displays_001/manual.pdf"
+        },
+        {
+          "type": "PDF",
+          "title": "Ficha Técnica",
+          "url": "/docs/totems_displays_001/specs.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": 22,
+    "material_type_id": 1,
+    "category_id": 5,
+    "campaign_id": 1,
+    "brand_id": 1,
+    "sku": "POP-0022",
+    "barcode": "780000000022",
+    "name": "Tótem Portacartel Blanco de Pedestal",
+    "short_description": "Tótem portacartel de pedestal en formato vertical para gráfica de una cara.",
+    "thumbnail_url": "https://flo3ben.github.io/smarttake-api/assets/images/materials/totems_displays/material_002/main.webp",
+    "unit": "UN",
+    "stock": 122,
+    "reserved_stock": 10,
+    "available_stock": 112,
+    "minimum_stock": 15,
+    "weight_kg": 9.0,
+    "featured": false,
+    "new_product": true,
+    "requires_serial": false,
+    "has_installation": true,
+    "has_warranty": true,
+    "version": "2026",
+    "status": "ACTIVE",
+    "sort_order": 22,
+    "material_details": {
+      "id": 22,
+      "material_id": 22,
+      "long_description": "Tótem portacartel de pedestal en acabado blanco con base metálica gris, formato vertical de una cara, pensado para señalética e información al cliente.",
+      "hero_image": "https://flo3ben.github.io/smarttake-api/assets/images/materials/totems_displays/material_002/main.webp",
+      "gallery": [
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/totems_displays/material_002/gallery_01.webp",
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/totems_displays/material_002/gallery_02.webp",
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/totems_displays/material_002/gallery_03.webp"
+      ],
+      "video_url": null,
+      "technical_specifications": {
+        "material": "Plástico ABS con base metálica",
+        "color": "Blanco/Gris",
+        "height_cm": 130,
+        "width_cm": 55,
+        "depth_cm": 30,
+        "weight_kg": 9.0,
+        "capacity": "1 gráfica de una cara",
+        "assembly_required": true,
+        "indoor": true,
+        "outdoor": false
+      },
+      "shipping_information": {
+        "packages": 1,
+        "package_weight_kg": 9.7,
+        "fragile": false,
+        "stackable": false
+      },
+      "installation_information": {
+        "difficulty": "BAJA",
+        "estimated_minutes": 15,
+        "people_required": 1
+      },
+      "maintenance_information": {
+        "inspection_days": 90,
+        "cleaning": "Paño seco"
+      },
+      "commercial_information": {
+        "expected_lifetime_months": 48,
+        "recommended_channel": "Señalética en Tienda",
+        "campaign_compatible": true
+      },
+      "documents": [
+        {
+          "type": "PDF",
+          "title": "Manual de Instalación",
+          "url": "/docs/totems_displays_002/manual.pdf"
+        },
+        {
+          "type": "PDF",
+          "title": "Ficha Técnica",
+          "url": "/docs/totems_displays_002/specs.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": 23,
+    "material_type_id": 1,
+    "category_id": 5,
+    "campaign_id": 1,
+    "brand_id": 1,
+    "sku": "POP-0023",
+    "barcode": "780000000023",
+    "name": "Isla de Exhibición de Cartón 3 Niveles",
+    "short_description": "Isla de exhibición de cartón corrugado con 3 niveles escalonados.",
+    "thumbnail_url": "https://flo3ben.github.io/smarttake-api/assets/images/materials/totems_displays/material_003/main.webp",
+    "unit": "UN",
+    "stock": 123,
+    "reserved_stock": 10,
+    "available_stock": 113,
+    "minimum_stock": 15,
+    "weight_kg": 8.0,
+    "featured": false,
+    "new_product": false,
+    "requires_serial": false,
+    "has_installation": true,
+    "has_warranty": true,
+    "version": "2026",
+    "status": "ACTIVE",
+    "sort_order": 23,
+    "material_details": {
+      "id": 23,
+      "material_id": 23,
+      "long_description": "Isla de exhibición de piso en cartón corrugado triple pared, con 3 niveles escalonados y cabecera gráfica superior, montaje rápido sin herramientas para campañas temporales.",
+      "hero_image": "https://flo3ben.github.io/smarttake-api/assets/images/materials/totems_displays/material_003/main.webp",
+      "gallery": [
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/totems_displays/material_003/gallery_01.webp",
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/totems_displays/material_003/gallery_02.webp",
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/totems_displays/material_003/gallery_03.webp"
+      ],
+      "video_url": null,
+      "technical_specifications": {
+        "material": "Cartón corrugado triple pared",
+        "color": "Blanco",
+        "height_cm": 100,
+        "width_cm": 65,
+        "depth_cm": 50,
+        "weight_kg": 8.0,
+        "capacity": "60 kg distribuidos en 3 niveles",
+        "assembly_required": true,
+        "indoor": true,
+        "outdoor": false
+      },
+      "shipping_information": {
+        "packages": 1,
+        "package_weight_kg": 8.6,
+        "fragile": false,
+        "stackable": true
+      },
+      "installation_information": {
+        "difficulty": "BAJA",
+        "estimated_minutes": 10,
+        "people_required": 1
+      },
+      "maintenance_information": {
+        "inspection_days": 90,
+        "cleaning": "Paño seco"
+      },
+      "commercial_information": {
+        "expected_lifetime_months": 6,
+        "recommended_channel": "Campañas Promocionales",
+        "campaign_compatible": true
+      },
+      "documents": [
+        {
+          "type": "PDF",
+          "title": "Manual de Instalación",
+          "url": "/docs/totems_displays_003/manual.pdf"
+        },
+        {
+          "type": "PDF",
+          "title": "Ficha Técnica",
+          "url": "/docs/totems_displays_003/specs.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": 24,
+    "material_type_id": 1,
+    "category_id": 5,
+    "campaign_id": 1,
+    "brand_id": 1,
+    "sku": "POP-0024",
+    "barcode": "780000000024",
+    "name": "Isla de Exhibición de Cartón Autoarmable 4 Niveles",
+    "short_description": "Isla de exhibición autoarmable de cartón corrugado con 4 niveles y cabecera gráfica.",
+    "thumbnail_url": "https://flo3ben.github.io/smarttake-api/assets/images/materials/totems_displays/material_004/main.webp",
+    "unit": "UN",
+    "stock": 124,
+    "reserved_stock": 10,
+    "available_stock": 114,
+    "minimum_stock": 15,
+    "weight_kg": 10.0,
+    "featured": false,
+    "new_product": false,
+    "requires_serial": false,
+    "has_installation": true,
+    "has_warranty": true,
+    "version": "2026",
+    "status": "ACTIVE",
+    "sort_order": 24,
+    "material_details": {
+      "id": 24,
+      "material_id": 24,
+      "long_description": "Isla de exhibición de piso de mayor capacidad en cartón corrugado triple pared, sistema autoarmable de montaje rápido sin herramientas, 4 niveles y cabecera gráfica de gran formato.",
+      "hero_image": "https://flo3ben.github.io/smarttake-api/assets/images/materials/totems_displays/material_004/main.webp",
+      "gallery": [
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/totems_displays/material_004/gallery_01.webp",
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/totems_displays/material_004/gallery_02.webp",
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/totems_displays/material_004/gallery_03.webp"
+      ],
+      "video_url": null,
+      "technical_specifications": {
+        "material": "Cartón corrugado triple pared",
+        "color": "Blanco",
+        "height_cm": 120,
+        "width_cm": 70,
+        "depth_cm": 55,
+        "weight_kg": 10.0,
+        "capacity": "80 kg distribuidos en 4 niveles",
+        "assembly_required": true,
+        "indoor": true,
+        "outdoor": false
+      },
+      "shipping_information": {
+        "packages": 1,
+        "package_weight_kg": 10.8,
+        "fragile": false,
+        "stackable": true
+      },
+      "installation_information": {
+        "difficulty": "BAJA",
+        "estimated_minutes": 12,
+        "people_required": 1
+      },
+      "maintenance_information": {
+        "inspection_days": 90,
+        "cleaning": "Paño seco"
+      },
+      "commercial_information": {
+        "expected_lifetime_months": 6,
+        "recommended_channel": "Campañas Promocionales",
+        "campaign_compatible": true
+      },
+      "documents": [
+        {
+          "type": "PDF",
+          "title": "Manual de Instalación",
+          "url": "/docs/totems_displays_004/manual.pdf"
+        },
+        {
+          "type": "PDF",
+          "title": "Ficha Técnica",
+          "url": "/docs/totems_displays_004/specs.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": 25,
+    "material_type_id": 1,
+    "category_id": 5,
+    "campaign_id": 1,
+    "brand_id": 1,
+    "sku": "POP-0025",
+    "barcode": "780000000025",
+    "name": "Tótem Digital Interactivo de Pedestal",
+    "short_description": "Tótem digital interactivo con pantalla táctil angulada sobre pedestal.",
+    "thumbnail_url": "https://flo3ben.github.io/smarttake-api/assets/images/materials/totems_displays/material_005/main.webp",
+    "unit": "UN",
+    "stock": 125,
+    "reserved_stock": 10,
+    "available_stock": 115,
+    "minimum_stock": 15,
+    "weight_kg": 22.0,
+    "featured": false,
+    "new_product": true,
+    "requires_serial": false,
+    "has_installation": true,
+    "has_warranty": true,
+    "version": "2026",
+    "status": "ACTIVE",
+    "sort_order": 25,
+    "material_details": {
+      "id": 25,
+      "material_id": 25,
+      "long_description": "Tótem digital interactivo con pantalla táctil angulada montada sobre pedestal en acabado blanco con detalle celeste, orientado a autoconsulta y experiencias digitales en tienda.",
+      "hero_image": "https://flo3ben.github.io/smarttake-api/assets/images/materials/totems_displays/material_005/main.webp",
+      "gallery": [
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/totems_displays/material_005/gallery_01.webp",
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/totems_displays/material_005/gallery_02.webp",
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/totems_displays/material_005/gallery_03.webp"
+      ],
+      "video_url": null,
+      "technical_specifications": {
+        "material": "ABS blanco con pantalla táctil integrada",
+        "color": "Blanco/Celeste",
+        "height_cm": 140,
+        "width_cm": 40,
+        "depth_cm": 35,
+        "weight_kg": 22.0,
+        "capacity": "1 pantalla táctil interactiva",
+        "assembly_required": true,
+        "indoor": true,
+        "outdoor": false
+      },
+      "shipping_information": {
+        "packages": 1,
+        "package_weight_kg": 23.8,
+        "fragile": false,
+        "stackable": false
+      },
+      "installation_information": {
+        "difficulty": "MEDIA",
+        "estimated_minutes": 30,
+        "people_required": 2
+      },
+      "maintenance_information": {
+        "inspection_days": 90,
+        "cleaning": "Paño seco"
+      },
+      "commercial_information": {
+        "expected_lifetime_months": 48,
+        "recommended_channel": "Comunicación Digital en Tienda",
+        "campaign_compatible": true
+      },
+      "documents": [
+        {
+          "type": "PDF",
+          "title": "Manual de Instalación",
+          "url": "/docs/totems_displays_005/manual.pdf"
+        },
+        {
+          "type": "PDF",
+          "title": "Ficha Técnica",
+          "url": "/docs/totems_displays_005/specs.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": 26,
+    "material_type_id": 1,
+    "category_id": 6,
+    "campaign_id": 1,
+    "brand_id": 1,
+    "sku": "POP-0026",
+    "barcode": "780000000026",
+    "name": "Refrigerador Vertical de una Puerta con Iluminación LED",
+    "short_description": "Refrigerador vertical de una puerta de vidrio con iluminación LED interior y 3 niveles ajustables.",
+    "thumbnail_url": "https://flo3ben.github.io/smarttake-api/assets/images/materials/refrigeradores/material_001/main.webp",
+    "unit": "UN",
+    "stock": 126,
+    "reserved_stock": 10,
+    "available_stock": 116,
+    "minimum_stock": 15,
+    "weight_kg": 95.0,
+    "featured": true,
+    "new_product": true,
+    "requires_serial": false,
+    "has_installation": false,
+    "has_warranty": true,
+    "version": "2026",
+    "status": "ACTIVE",
+    "sort_order": 26,
+    "material_details": {
+      "id": 26,
+      "material_id": 26,
+      "long_description": "Refrigerador vertical tipo merchandiser en acero inoxidable con puerta de vidrio templado de una hoja, iluminación LED interior y 3 bandejas metálicas ajustables en altura, diseñado para exhibir bebidas refrigeradas con máxima visibilidad.",
+      "hero_image": "https://flo3ben.github.io/smarttake-api/assets/images/materials/refrigeradores/material_001/main.webp",
+      "gallery": [
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/refrigeradores/material_001/gallery_01.webp",
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/refrigeradores/material_001/gallery_02.webp",
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/refrigeradores/material_001/gallery_03.webp"
+      ],
+      "video_url": null,
+      "technical_specifications": {
+        "material": "Acero inoxidable con puerta de vidrio templado",
+        "color": "Negro/Acero Inoxidable",
+        "height_cm": 190,
+        "width_cm": 75,
+        "depth_cm": 80,
+        "weight_kg": 95.0,
+        "capacity": "3 niveles ajustables con iluminación LED interior",
+        "assembly_required": false,
+        "indoor": true,
+        "outdoor": false
+      },
+      "shipping_information": {
+        "packages": 1,
+        "package_weight_kg": 102.6,
+        "fragile": false,
+        "stackable": false
+      },
+      "installation_information": {
+        "difficulty": "BAJA",
+        "estimated_minutes": 20,
+        "people_required": 2
+      },
+      "maintenance_information": {
+        "inspection_days": 90,
+        "cleaning": "Paño seco"
+      },
+      "commercial_information": {
+        "expected_lifetime_months": 96,
+        "recommended_channel": "Supermercados y Tiendas de Conveniencia",
+        "campaign_compatible": true
+      },
+      "documents": [
+        {
+          "type": "PDF",
+          "title": "Manual de Instalación",
+          "url": "/docs/refrigeradores_001/manual.pdf"
+        },
+        {
+          "type": "PDF",
+          "title": "Ficha Técnica",
+          "url": "/docs/refrigeradores_001/specs.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": 27,
+    "material_type_id": 1,
+    "category_id": 6,
+    "campaign_id": 1,
+    "brand_id": 1,
+    "sku": "POP-0027",
+    "barcode": "780000000027",
+    "name": "Cooler Portátil con Asa",
+    "short_description": "Cooler portátil rígido en blanco y gris con asa para transporte, ideal para punto de venta móvil.",
+    "thumbnail_url": "https://flo3ben.github.io/smarttake-api/assets/images/materials/refrigeradores/material_002/main.webp",
+    "unit": "UN",
+    "stock": 127,
+    "reserved_stock": 10,
+    "available_stock": 117,
+    "minimum_stock": 15,
+    "weight_kg": 3.5,
+    "featured": false,
+    "new_product": true,
+    "requires_serial": false,
+    "has_installation": false,
+    "has_warranty": true,
+    "version": "2026",
+    "status": "ACTIVE",
+    "sort_order": 27,
+    "material_details": {
+      "id": 27,
+      "material_id": 27,
+      "long_description": "Cooler portátil de cuerpo rígido en polietileno de alta densidad, con tapa superior y asa plegable para transporte, pensado para activaciones, ferias y puntos de venta móviles que requieren mantener producto frío.",
+      "hero_image": "https://flo3ben.github.io/smarttake-api/assets/images/materials/refrigeradores/material_002/main.webp",
+      "gallery": [
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/refrigeradores/material_002/gallery_01.webp",
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/refrigeradores/material_002/gallery_02.webp",
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/refrigeradores/material_002/gallery_03.webp"
+      ],
+      "video_url": null,
+      "technical_specifications": {
+        "material": "Polietileno de alta densidad (HDPE)",
+        "color": "Blanco/Gris",
+        "height_cm": 35,
+        "width_cm": 40,
+        "depth_cm": 28,
+        "weight_kg": 3.5,
+        "capacity": "20 litros aproximados, con asa para transporte",
+        "assembly_required": false,
+        "indoor": true,
+        "outdoor": true
+      },
+      "shipping_information": {
+        "packages": 1,
+        "package_weight_kg": 3.8,
+        "fragile": false,
+        "stackable": false
+      },
+      "installation_information": {
+        "difficulty": "BAJA",
+        "estimated_minutes": 2,
+        "people_required": 1
+      },
+      "maintenance_information": {
+        "inspection_days": 90,
+        "cleaning": "Paño seco"
+      },
+      "commercial_information": {
+        "expected_lifetime_months": 36,
+        "recommended_channel": "Activaciones y Punto de Venta Móvil",
+        "campaign_compatible": true
+      },
+      "documents": [
+        {
+          "type": "PDF",
+          "title": "Manual de Instalación",
+          "url": "/docs/refrigeradores_002/manual.pdf"
+        },
+        {
+          "type": "PDF",
+          "title": "Ficha Técnica",
+          "url": "/docs/refrigeradores_002/specs.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": 28,
+    "material_type_id": 1,
+    "category_id": 6,
+    "campaign_id": 1,
+    "brand_id": 1,
+    "sku": "POP-0028",
+    "barcode": "780000000028",
+    "name": "Refrigerador Back-Bar de Dos Puertas Correderas",
+    "short_description": "Refrigerador back-bar en acero inoxidable con dos puertas correderas de vidrio y bandejas metálicas.",
+    "thumbnail_url": "https://flo3ben.github.io/smarttake-api/assets/images/materials/refrigeradores/material_003/main.webp",
+    "unit": "UN",
+    "stock": 128,
+    "reserved_stock": 10,
+    "available_stock": 118,
+    "minimum_stock": 15,
+    "weight_kg": 78.0,
+    "featured": false,
+    "new_product": false,
+    "requires_serial": false,
+    "has_installation": false,
+    "has_warranty": true,
+    "version": "2026",
+    "status": "ACTIVE",
+    "sort_order": 28,
+    "material_details": {
+      "id": 28,
+      "material_id": 28,
+      "long_description": "Refrigerador tipo back-bar en acero inoxidable con dos puertas correderas de vidrio y bandejas metálicas ajustables, diseñado para almacenar y exhibir botellas y latas en bares y restaurantes bajo el mesón.",
+      "hero_image": "https://flo3ben.github.io/smarttake-api/assets/images/materials/refrigeradores/material_003/main.webp",
+      "gallery": [
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/refrigeradores/material_003/gallery_01.webp",
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/refrigeradores/material_003/gallery_02.webp",
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/refrigeradores/material_003/gallery_03.webp"
+      ],
+      "video_url": null,
+      "technical_specifications": {
+        "material": "Acero inoxidable con puertas correderas de vidrio",
+        "color": "Acero Inoxidable",
+        "height_cm": 90,
+        "width_cm": 90,
+        "depth_cm": 70,
+        "weight_kg": 78.0,
+        "capacity": "2 puertas correderas con bandejas metálicas ajustables",
+        "assembly_required": false,
+        "indoor": true,
+        "outdoor": false
+      },
+      "shipping_information": {
+        "packages": 1,
+        "package_weight_kg": 84.2,
+        "fragile": false,
+        "stackable": false
+      },
+      "installation_information": {
+        "difficulty": "BAJA",
+        "estimated_minutes": 25,
+        "people_required": 2
+      },
+      "maintenance_information": {
+        "inspection_days": 90,
+        "cleaning": "Paño seco"
+      },
+      "commercial_information": {
+        "expected_lifetime_months": 96,
+        "recommended_channel": "Bares y Restaurantes",
+        "campaign_compatible": true
+      },
+      "documents": [
+        {
+          "type": "PDF",
+          "title": "Manual de Instalación",
+          "url": "/docs/refrigeradores_003/manual.pdf"
+        },
+        {
+          "type": "PDF",
+          "title": "Ficha Técnica",
+          "url": "/docs/refrigeradores_003/specs.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": 29,
+    "material_type_id": 1,
+    "category_id": 6,
+    "campaign_id": 1,
+    "brand_id": 1,
+    "sku": "POP-0029",
+    "barcode": "780000000029",
+    "name": "Vitrina Refrigerada de Mostrador con Panel Lateral",
+    "short_description": "Vitrina refrigerada de mostrador en blanco con panel lateral de acrílico y base fría abierta.",
+    "thumbnail_url": "https://flo3ben.github.io/smarttake-api/assets/images/materials/refrigeradores/material_004/main.webp",
+    "unit": "UN",
+    "stock": 129,
+    "reserved_stock": 10,
+    "available_stock": 119,
+    "minimum_stock": 15,
+    "weight_kg": 32.0,
+    "featured": false,
+    "new_product": false,
+    "requires_serial": false,
+    "has_installation": true,
+    "has_warranty": true,
+    "version": "2026",
+    "status": "ACTIVE",
+    "sort_order": 29,
+    "material_details": {
+      "id": 29,
+      "material_id": 29,
+      "long_description": "Vitrina refrigerada de mostrador con estructura en aluminio y ABS blanco, panel lateral divisorio de acrílico y base fría de superficie abierta, diseñada para exhibir productos perecederos de venta rápida en cafeterías y panaderías.",
+      "hero_image": "https://flo3ben.github.io/smarttake-api/assets/images/materials/refrigeradores/material_004/main.webp",
+      "gallery": [
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/refrigeradores/material_004/gallery_01.webp",
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/refrigeradores/material_004/gallery_02.webp",
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/refrigeradores/material_004/gallery_03.webp"
+      ],
+      "video_url": null,
+      "technical_specifications": {
+        "material": "Estructura de aluminio y ABS blanco con panel lateral de acrílico",
+        "color": "Blanco/Fucsia",
+        "height_cm": 45,
+        "width_cm": 110,
+        "depth_cm": 50,
+        "weight_kg": 32.0,
+        "capacity": "1 nivel con base fría y panel divisor de vidrio",
+        "assembly_required": true,
+        "indoor": true,
+        "outdoor": false
+      },
+      "shipping_information": {
+        "packages": 1,
+        "package_weight_kg": 34.6,
+        "fragile": false,
+        "stackable": false
+      },
+      "installation_information": {
+        "difficulty": "MEDIA",
+        "estimated_minutes": 30,
+        "people_required": 2
+      },
+      "maintenance_information": {
+        "inspection_days": 90,
+        "cleaning": "Paño húmedo"
+      },
+      "commercial_information": {
+        "expected_lifetime_months": 60,
+        "recommended_channel": "Cafeterías y Panaderías",
+        "campaign_compatible": true
+      },
+      "documents": [
+        {
+          "type": "PDF",
+          "title": "Manual de Instalación",
+          "url": "/docs/refrigeradores_004/manual.pdf"
+        },
+        {
+          "type": "PDF",
+          "title": "Ficha Técnica",
+          "url": "/docs/refrigeradores_004/specs.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": 30,
+    "material_type_id": 1,
+    "category_id": 6,
+    "campaign_id": 1,
+    "brand_id": 1,
+    "sku": "POP-0030",
+    "barcode": "780000000030",
+    "name": "Mini Refrigerador Compacto de Puerta de Vidrio",
+    "short_description": "Mini refrigerador compacto en negro con puerta de vidrio, formato reducido para mostrador.",
+    "thumbnail_url": "https://flo3ben.github.io/smarttake-api/assets/images/materials/refrigeradores/material_005/main.webp",
+    "unit": "UN",
+    "stock": 130,
+    "reserved_stock": 10,
+    "available_stock": 120,
+    "minimum_stock": 15,
+    "weight_kg": 18.0,
+    "featured": false,
+    "new_product": false,
+    "requires_serial": false,
+    "has_installation": false,
+    "has_warranty": true,
+    "version": "2026",
+    "status": "ACTIVE",
+    "sort_order": 30,
+    "material_details": {
+      "id": 30,
+      "material_id": 30,
+      "long_description": "Mini refrigerador compacto en acero pintado color negro con puerta de vidrio templado y 2 niveles internos, formato reducido pensado para exhibir bebidas o productos fríos junto al punto de cobro.",
+      "hero_image": "https://flo3ben.github.io/smarttake-api/assets/images/materials/refrigeradores/material_005/main.webp",
+      "gallery": [
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/refrigeradores/material_005/gallery_01.webp",
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/refrigeradores/material_005/gallery_02.webp",
+        "https://flo3ben.github.io/smarttake-api/assets/images/materials/refrigeradores/material_005/gallery_03.webp"
+      ],
+      "video_url": null,
+      "technical_specifications": {
+        "material": "Acero pintado con puerta de vidrio templado",
+        "color": "Negro",
+        "height_cm": 50,
+        "width_cm": 38,
+        "depth_cm": 40,
+        "weight_kg": 18.0,
+        "capacity": "2 niveles, formato compacto de mostrador",
+        "assembly_required": false,
+        "indoor": true,
+        "outdoor": false
+      },
+      "shipping_information": {
+        "packages": 1,
+        "package_weight_kg": 19.4,
+        "fragile": false,
+        "stackable": false
+      },
+      "installation_information": {
+        "difficulty": "BAJA",
+        "estimated_minutes": 10,
+        "people_required": 1
+      },
+      "maintenance_information": {
+        "inspection_days": 90,
+        "cleaning": "Paño seco"
+      },
+      "commercial_information": {
+        "expected_lifetime_months": 60,
+        "recommended_channel": "Punto de Cobro y Mostrador",
+        "campaign_compatible": true
+      },
+      "documents": [
+        {
+          "type": "PDF",
+          "title": "Manual de Instalación",
+          "url": "/docs/refrigeradores_005/manual.pdf"
+        },
+        {
+          "type": "PDF",
+          "title": "Ficha Técnica",
+          "url": "/docs/refrigeradores_005/specs.pdf"
+        }
+      ]
+    }
+  }
+]

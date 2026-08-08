@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "code": "ANAQUELES",
+    "name": "Anaqueles",
+    "description": "Estanterías y sistemas de repisas para exhibición y almacenamiento de producto en punto de venta.",
+    "icon": "shelves",
+    "banner_image": "https://flo3ben.github.io/smarttake-api/assets/images/categories/anaqueles.webp",
+    "color": "#607D8B",
+    "sort_order": 1,
+    "featured": true,
+    "active": true
+  },
+  {
+    "id": 2,
+    "code": "EXHIBIDORES",
+    "name": "Exhibidores",
+    "description": "Estructuras de exhibición de piso, pared o mostrador diseñadas para destacar productos en el punto de venta.",
+    "icon": "storefront",
+    "banner_image": "https://flo3ben.github.io/smarttake-api/assets/images/categories/exhibidores.webp",
+    "color": "#2196F3",
+    "sort_order": 2,
+    "featured": true,
+    "active": true
+  },
+  {
+    "id": 3,
+    "code": "GLORIFICADORES",
+    "name": "Glorificadores",
+    "description": "Elementos de exhibición premium para resaltar un producto individual con máxima visibilidad.",
+    "icon": "star",
+    "banner_image": "https://flo3ben.github.io/smarttake-api/assets/images/categories/glorificadores.webp",
+    "color": "#9C27B0",
+    "sort_order": 3,
+    "featured": true,
+    "active": true
+  },
+  {
+    "id": 4,
+    "code": "MOSTRADORES",
+    "name": "Mostradores",
+    "description": "Muebles de atención al cliente y punto de cobro con superficie de trabajo y almacenamiento integrado.",
+    "icon": "countertops",
+    "banner_image": "https://flo3ben.github.io/smarttake-api/assets/images/categories/mostradores.webp",
+    "color": "#795548",
+    "sort_order": 4,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": 5,
+    "code": "TOTEMS_DISPLAYS",
+    "name": "Tótems y Displays",
+    "description": "Estructuras verticales de piso para señalización, comunicación gráfica y exhibición masiva de producto.",
+    "icon": "signpost",
+    "banner_image": "https://flo3ben.github.io/smarttake-api/assets/images/categories/totems_displays.webp",
+    "color": "#FF5722",
+    "sort_order": 5,
+    "featured": true,
+    "active": true
+  },
+  {
+    "id": 6,
+    "code": "REFRIGERADORES",
+    "name": "Refrigeradores",
+    "description": "Equipos de refrigeración y conservación en frío para exhibición de bebidas y productos perecederos en el punto de venta.",
+    "icon": "kitchen",
+    "banner_image": "https://flo3ben.github.io/smarttake-api/assets/images/categories/refrigeradores.webp",
+    "color": "#00BCD4",
+    "sort_order": 6,
+    "featured": true,
+    "active": true
+  }
+]
