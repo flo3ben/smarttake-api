@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "code": "NEW_STORE",
+    "name": "Nueva Apertura",
+    "requires_approval": true,
+    "active": true
+  },
+  {
+    "id": 2,
+    "code": "DAMAGED",
+    "name": "Reposición por Daño",
+    "requires_approval": true,
+    "active": true
+  },
+  {
+    "id": 3,
+    "code": "CAMPAIGN_CHANGE",
+    "name": "Cambio de Campaña",
+    "requires_approval": false,
+    "active": true
+  },
+  {
+    "id": 4,
+    "code": "EXPANSION",
+    "name": "Ampliación de Exhibición",
+    "requires_approval": true,
+    "active": true
+  },
+  {
+    "id": 5,
+    "code": "OTHER",
+    "name": "Otro",
+    "requires_approval": false,
+    "active": true
+  }
+]

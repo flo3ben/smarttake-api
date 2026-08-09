@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "code": "VER2026",
+    "name": "Verano 2026",
+    "start_date": "2026-01-01",
+    "end_date": "2026-03-31",
+    "status": "ACTIVE"
+  },
+  {
+    "id": 2,
+    "code": "OTO2026",
+    "name": "Otoño 2026",
+    "start_date": "2026-04-01",
+    "end_date": "2026-06-30",
+    "status": "PLANNED"
+  },
+  {
+    "id": 3,
+    "code": "INV2026",
+    "name": "Invierno 2026",
+    "start_date": "2026-07-01",
+    "end_date": "2026-09-30",
+    "status": "PLANNED"
+  },
+  {
+    "id": 4,
+    "code": "PRI2026",
+    "name": "Primavera 2026",
+    "start_date": "2026-10-01",
+    "end_date": "2026-12-31",
+    "status": "PLANNED"
+  },
+  {
+    "id": 5,
+    "code": "NAV2026",
+    "name": "Navidad 2026",
+    "start_date": "2026-12-01",
+    "end_date": "2026-12-31",
+    "status": "PLANNED"
+  }
+]

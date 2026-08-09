@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "code": "DISPLAY",
+    "name": "Display",
+    "description": "Exhibidor de productos",
+    "requires_installation": true,
+    "expected_lifespan_months": 24,
+    "active": true
+  },
+  {
+    "id": 2,
+    "code": "RACK",
+    "name": "Rack",
+    "description": "Rack promocional",
+    "requires_installation": true,
+    "expected_lifespan_months": 36,
+    "active": true
+  },
+  {
+    "id": 3,
+    "code": "STICKER",
+    "name": "Sticker",
+    "description": "Adhesivo promocional",
+    "requires_installation": false,
+    "expected_lifespan_months": 6,
+    "active": true
+  },
+  {
+    "id": 4,
+    "code": "PENDON",
+    "name": "Pendón",
+    "description": "Pendón publicitario",
+    "requires_installation": true,
+    "expected_lifespan_months": 12,
+    "active": true
+  },
+  {
+    "id": 5,
+    "code": "VISICOOLER",
+    "name": "Visicooler",
+    "description": "Refrigerador promocional",
+    "requires_installation": true,
+    "expected_lifespan_months": 60,
+    "active": true
+  }
+]

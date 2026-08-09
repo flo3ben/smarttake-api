@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "code": "INSTALLATION",
+    "name": "Instalación",
+    "requires_gps": true,
+    "requires_photo": true,
+    "requires_signature": false,
+    "active": true
+  },
+  {
+    "id": 2,
+    "code": "AUDIT",
+    "name": "Auditoría",
+    "requires_gps": true,
+    "requires_photo": true,
+    "requires_signature": false,
+    "active": true
+  },
+  {
+    "id": 3,
+    "code": "REPLACEMENT",
+    "name": "Reemplazo",
+    "requires_gps": true,
+    "requires_photo": true,
+    "requires_signature": true,
+    "active": true
+  },
+  {
+    "id": 4,
+    "code": "RELOCATION",
+    "name": "Traslado",
+    "requires_gps": true,
+    "requires_photo": true,
+    "requires_signature": true,
+    "active": true
+  },
+  {
+    "id": 5,
+    "code": "RETIREMENT",
+    "name": "Retiro",
+    "requires_gps": true,
+    "requires_photo": true,
+    "requires_signature": true,
+    "active": true
+  }
+]

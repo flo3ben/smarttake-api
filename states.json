@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "entity": "ASSET",
+    "code": "AVAILABLE",
+    "name": "Disponible",
+    "color": "#4CAF50",
+    "icon": "inventory",
+    "sort_order": 1,
+    "is_terminal": false,
+    "active": true
+  },
+  {
+    "id": 2,
+    "entity": "ASSET",
+    "code": "INSTALLED",
+    "name": "Instalado",
+    "color": "#2196F3",
+    "icon": "place",
+    "sort_order": 2,
+    "is_terminal": false,
+    "active": true
+  },
+  {
+    "id": 3,
+    "entity": "REQUEST",
+    "code": "PENDING",
+    "name": "Pendiente",
+    "color": "#FFC107",
+    "icon": "schedule",
+    "sort_order": 1,
+    "is_terminal": false,
+    "active": true
+  },
+  {
+    "id": 4,
+    "entity": "INCIDENT",
+    "code": "CLOSED",
+    "name": "Cerrada",
+    "color": "#4CAF50",
+    "icon": "check_circle",
+    "sort_order": 99,
+    "is_terminal": true,
+    "active": true
+  },
+  {
+    "id": 5,
+    "entity": "AUDIT",
+    "code": "COMPLETED",
+    "name": "Completada",
+    "color": "#3F51B5",
+    "icon": "fact_check",
+    "sort_order": 99,
+    "is_terminal": true,
+    "active": true
+  }
+]

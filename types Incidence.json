@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "code": "DAMAGED",
+    "name": "Material Dañado",
+    "default_priority": "HIGH",
+    "sla_hours": 24,
+    "requires_photo": true,
+    "requires_comment": true,
+    "active": true
+  },
+  {
+    "id": 2,
+    "code": "MISSING",
+    "name": "Material Extraviado",
+    "default_priority": "CRITICAL",
+    "sla_hours": 8,
+    "requires_photo": true,
+    "requires_comment": true,
+    "active": true
+  },
+  {
+    "id": 3,
+    "code": "DIRTY",
+    "name": "Material Sucio",
+    "default_priority": "LOW",
+    "sla_hours": 72,
+    "requires_photo": false,
+    "requires_comment": false,
+    "active": true
+  },
+  {
+    "id": 4,
+    "code": "OUTDATED",
+    "name": "Publicidad Desactualizada",
+    "default_priority": "MEDIUM",
+    "sla_hours": 48,
+    "requires_photo": true,
+    "requires_comment": true,
+    "active": true
+  },
+  {
+    "id": 5,
+    "code": "INSTALLATION_FAILED",
+    "name": "Instalación Fallida",
+    "default_priority": "HIGH",
+    "sla_hours": 24,
+    "requires_photo": true,
+    "requires_comment": true,
+    "active": true
+  }
+]

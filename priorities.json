@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "code": "LOW",
+    "name": "Baja",
+    "level": 1,
+    "color": "#4CAF50",
+    "response_hours": 72
+  },
+  {
+    "id": 2,
+    "code": "MEDIUM",
+    "name": "Media",
+    "level": 2,
+    "color": "#FFC107",
+    "response_hours": 48
+  },
+  {
+    "id": 3,
+    "code": "HIGH",
+    "name": "Alta",
+    "level": 3,
+    "color": "#FF9800",
+    "response_hours": 24
+  },
+  {
+    "id": 4,
+    "code": "CRITICAL",
+    "name": "Crítica",
+    "level": 4,
+    "color": "#F44336",
+    "response_hours": 8
+  },
+  {
+    "id": 5,
+    "code": "EMERGENCY",
+    "name": "Emergencia",
+    "level": 5,
+    "color": "#B71C1C",
+    "response_hours": 2
+  }
+]
