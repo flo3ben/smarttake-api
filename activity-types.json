@@ -1,0 +1,310 @@
+{
+  "schemaVersion": 1,
+  "types": [
+    {
+      "code": "visita_comercial",
+      "label": "Visita comercial",
+      "iconKey": "storefront",
+      "schemaVersion": 1,
+      "requiresCustomer": true,
+      "requiresGeo": true,
+      "minEvidences": 0,
+      "linkedFlow": null,
+      "fields": [
+        {
+          "key": "contacto",
+          "kind": "text",
+          "label": "¿Con quién hablaste?",
+          "hint": "Nombre de la persona de contacto",
+          "required": true,
+          "maxLength": 80
+        },
+        {
+          "key": "temas",
+          "kind": "multiChoice",
+          "label": "Temas tratados",
+          "required": true,
+          "minSelected": 1,
+          "options": [
+            { "value": "precios", "label": "Precios" },
+            { "value": "quiebre_stock", "label": "Quiebre de stock" },
+            { "value": "promociones", "label": "Promociones" },
+            { "value": "reclamo", "label": "Reclamo" },
+            { "value": "otro", "label": "Otro" }
+          ]
+        },
+        {
+          "key": "proximoPaso",
+          "kind": "singleChoice",
+          "label": "Próximo paso",
+          "required": false,
+          "options": [
+            { "value": "agendar", "label": "Agendar nueva visita" },
+            { "value": "sin_seguimiento", "label": "Sin seguimiento" },
+            { "value": "escalar", "label": "Escalar a supervisor" }
+          ]
+        },
+        {
+          "key": "fechaProximaVisita",
+          "kind": "date",
+          "label": "Fecha de la próxima visita",
+          "required": false,
+          "requiredIf": { "fieldKey": "proximoPaso", "equals": "agendar" }
+        },
+        {
+          "key": "observaciones",
+          "kind": "multilineText",
+          "label": "Observaciones",
+          "required": false,
+          "maxLength": 500
+        }
+      ],
+      "outcomeReasons": [
+        { "code": "cliente_ausente", "label": "Cliente ausente", "requiresNote": false },
+        { "code": "local_cerrado", "label": "Local cerrado", "requiresNote": false },
+        { "code": "otro", "label": "Otro", "requiresNote": true }
+      ]
+    },
+    {
+      "code": "toma_pedido",
+      "label": "Toma de pedido",
+      "iconKey": "shopping_cart",
+      "schemaVersion": 1,
+      "requiresCustomer": true,
+      "requiresGeo": true,
+      "minEvidences": 0,
+      "linkedFlow": "pedido",
+      "fields": [
+        {
+          "key": "pedidoGenerado",
+          "kind": "boolean",
+          "label": "¿Se generó un pedido?",
+          "required": true
+        },
+        {
+          "key": "motivoNoPedido",
+          "kind": "singleChoice",
+          "label": "Motivo por el que no se generó pedido",
+          "required": false,
+          "requiredIf": { "fieldKey": "pedidoGenerado", "equals": false },
+          "options": [
+            { "value": "sin_stock", "label": "Sin stock" },
+            { "value": "cliente_no_interesado", "label": "Cliente no interesado" },
+            { "value": "precio_no_competitivo", "label": "Precio no competitivo" },
+            { "value": "otro", "label": "Otro" }
+          ]
+        }
+      ],
+      "outcomeReasons": [
+        { "code": "sin_stock", "label": "Sin stock", "requiresNote": false },
+        { "code": "otro", "label": "Otro", "requiresNote": true }
+      ]
+    },
+    {
+      "code": "cobranza",
+      "label": "Cobranza",
+      "iconKey": "payments",
+      "schemaVersion": 1,
+      "requiresCustomer": true,
+      "requiresGeo": true,
+      "minEvidences": 0,
+      "linkedFlow": null,
+      "fields": [
+        {
+          "key": "montoRecaudado",
+          "kind": "clpAmount",
+          "label": "Monto recaudado",
+          "required": true,
+          "min": 0
+        },
+        {
+          "key": "medioPago",
+          "kind": "singleChoice",
+          "label": "Medio de pago",
+          "required": true,
+          "options": [
+            { "value": "efectivo", "label": "Efectivo" },
+            { "value": "transferencia", "label": "Transferencia" },
+            { "value": "cheque", "label": "Cheque" }
+          ]
+        },
+        {
+          "key": "comprobante",
+          "kind": "photo",
+          "label": "Comprobante",
+          "required": false,
+          "minPhotos": 1,
+          "maxPhotos": 2
+        }
+      ],
+      "outcomeReasons": [
+        { "code": "cliente_no_pago", "label": "Cliente no pagó", "requiresNote": false },
+        { "code": "otro", "label": "Otro", "requiresNote": true }
+      ]
+    },
+    {
+      "code": "verificacion_pop",
+      "label": "Verificación POP",
+      "iconKey": "campaign",
+      "schemaVersion": 1,
+      "requiresCustomer": true,
+      "requiresGeo": true,
+      "minEvidences": 1,
+      "linkedFlow": "pop",
+      "fields": [
+        {
+          "key": "materialPresente",
+          "kind": "boolean",
+          "label": "¿El material está presente?",
+          "required": true
+        },
+        {
+          "key": "estadoMaterial",
+          "kind": "singleChoice",
+          "label": "Estado del material",
+          "required": false,
+          "requiredIf": { "fieldKey": "materialPresente", "equals": true },
+          "options": [
+            { "value": "bueno", "label": "Bueno" },
+            { "value": "danado", "label": "Dañado" },
+            { "value": "faltante", "label": "Faltante" }
+          ]
+        },
+        {
+          "key": "fotoExhibicion",
+          "kind": "photo",
+          "label": "Foto de la exhibición",
+          "required": true,
+          "minPhotos": 1,
+          "maxPhotos": 3
+        }
+      ],
+      "outcomeReasons": [
+        { "code": "material_retirado", "label": "Material retirado por el cliente", "requiresNote": true },
+        { "code": "otro", "label": "Otro", "requiresNote": true }
+      ]
+    },
+    {
+      "code": "relevamiento_inventario",
+      "label": "Relevamiento de inventario",
+      "iconKey": "inventory_2",
+      "schemaVersion": 1,
+      "requiresCustomer": true,
+      "requiresGeo": true,
+      "minEvidences": 0,
+      "linkedFlow": null,
+      "fields": [
+        {
+          "key": "skusRelevados",
+          "kind": "counter",
+          "label": "SKUs relevados",
+          "required": true,
+          "min": 0
+        },
+        {
+          "key": "quiebres",
+          "kind": "counter",
+          "label": "Quiebres de stock",
+          "required": false,
+          "min": 0
+        },
+        {
+          "key": "fotoGondola",
+          "kind": "photo",
+          "label": "Foto de la góndola",
+          "required": false,
+          "minPhotos": 0,
+          "maxPhotos": 2
+        }
+      ],
+      "outcomeReasons": [
+        { "code": "otro", "label": "Otro", "requiresNote": true }
+      ]
+    },
+    {
+      "code": "entrega_material",
+      "label": "Entrega de material",
+      "iconKey": "local_shipping",
+      "schemaVersion": 1,
+      "requiresCustomer": true,
+      "requiresGeo": false,
+      "minEvidences": 1,
+      "linkedFlow": null,
+      "fields": [
+        {
+          "key": "unidadesEntregadas",
+          "kind": "integer",
+          "label": "Unidades entregadas",
+          "required": true,
+          "min": 0
+        },
+        {
+          "key": "receptor",
+          "kind": "text",
+          "label": "Recibido por",
+          "required": true,
+          "maxLength": 80
+        },
+        {
+          "key": "fotoEntrega",
+          "kind": "photo",
+          "label": "Foto de la entrega",
+          "required": false,
+          "minPhotos": 1,
+          "maxPhotos": 2
+        }
+      ],
+      "outcomeReasons": [
+        { "code": "cliente_rechazo", "label": "Cliente rechazó el material", "requiresNote": true },
+        { "code": "otro", "label": "Otro", "requiresNote": true }
+      ]
+    },
+    {
+      "code": "seguimiento_cliente",
+      "label": "Seguimiento de cliente",
+      "iconKey": "support_agent",
+      "schemaVersion": 1,
+      "requiresCustomer": true,
+      "requiresGeo": false,
+      "minEvidences": 0,
+      "linkedFlow": null,
+      "fields": [
+        {
+          "key": "canal",
+          "kind": "singleChoice",
+          "label": "Canal utilizado",
+          "required": false,
+          "options": [
+            { "value": "llamada", "label": "Llamada" },
+            { "value": "whatsapp", "label": "WhatsApp" },
+            { "value": "visita", "label": "Visita" }
+          ]
+        },
+        {
+          "key": "resumen",
+          "kind": "multilineText",
+          "label": "Resumen de la conversación",
+          "required": true,
+          "maxLength": 500
+        },
+        {
+          "key": "requiereAccion",
+          "kind": "boolean",
+          "label": "¿Requiere una acción de seguimiento?",
+          "required": false
+        }
+      ],
+      "outcomeReasons": [
+        { "code": "otro", "label": "Otro", "requiresNote": true }
+      ]
+    }
+  ],
+  "skipReasons": [
+    { "code": "cliente_cerrado", "label": "Cliente cerrado", "requiresNote": false },
+    { "code": "cliente_no_disponible", "label": "Cliente no disponible", "requiresNote": false },
+    { "code": "sin_tiempo", "label": "Sin tiempo", "requiresNote": false },
+    { "code": "sin_stock", "label": "Sin stock", "requiresNote": false },
+    { "code": "direccion_incorrecta", "label": "Dirección incorrecta", "requiresNote": false },
+    { "code": "otro", "label": "Otro", "requiresNote": true }
+  ]
+}
