@@ -1,8 +1,8 @@
 [
   {
     "id": "AST-00001",
-    "customer_id": "CUS-4588117-1",
-    "customer_name_snapshot": "JARA GATICA",
+    "customer_id": "CUS-5278536-1",
+    "customer_name_snapshot": "CARGA ACCESORIOS LTDA",
     "material_id": 26,
     "material_snapshot": {
       "sku": "POP-0026",
@@ -81,8 +81,8 @@
   },
   {
     "id": "AST-00002",
-    "customer_id": "CUS-4588117-1",
-    "customer_name_snapshot": "JARA GATICA",
+    "customer_id": "CUS-5278536-1",
+    "customer_name_snapshot": "CARGA ACCESORIOS LTDA",
     "material_id": 12,
     "material_snapshot": {
       "sku": "POP-0012",
@@ -162,8 +162,8 @@
   },
   {
     "id": "AST-00003",
-    "customer_id": "CUS-4588117-1",
-    "customer_name_snapshot": "JARA GATICA",
+    "customer_id": "CUS-5278536-1",
+    "customer_name_snapshot": "CARGA ACCESORIOS LTDA",
     "material_id": 21,
     "material_snapshot": {
       "sku": "POP-0021",
@@ -191,7 +191,7 @@
   {
     "id": "AST-00004",
     "customer_id": "CUS-5296129-1",
-    "customer_name_snapshot": "IRMA ESPINOZA PALMA",
+    "customer_name_snapshot": "NET CONNECT LTDA",
     "material_id": 27,
     "material_snapshot": {
       "sku": "POP-0027",
@@ -237,7 +237,7 @@
   {
     "id": "AST-00005",
     "customer_id": "CUS-5296129-1",
-    "customer_name_snapshot": "IRMA ESPINOZA PALMA",
+    "customer_name_snapshot": "NET CONNECT LTDA",
     "material_id": 6,
     "material_snapshot": {
       "sku": "POP-0006",
@@ -318,7 +318,7 @@
   {
     "id": "AST-00006",
     "customer_id": "CUS-7692686-1",
-    "customer_name_snapshot": "MIREYA DEL CARMEN SANDOVAL FLORES",
+    "customer_name_snapshot": "ALERTA TECH LTDA",
     "material_id": 28,
     "material_snapshot": {
       "sku": "POP-0028",
@@ -398,7 +398,7 @@
   {
     "id": "AST-00007",
     "customer_id": "CUS-7692686-1",
-    "customer_name_snapshot": "MIREYA DEL CARMEN SANDOVAL FLORES",
+    "customer_name_snapshot": "ALERTA TECH LTDA",
     "material_id": 16,
     "material_snapshot": {
       "sku": "POP-0016",
@@ -479,7 +479,7 @@
   {
     "id": "AST-00008",
     "customer_id": "CUS-7692686-1",
-    "customer_name_snapshot": "MIREYA DEL CARMEN SANDOVAL FLORES",
+    "customer_name_snapshot": "ALERTA TECH LTDA",
     "material_id": 22,
     "material_snapshot": {
       "sku": "POP-0022",
@@ -542,8 +542,8 @@
   },
   {
     "id": "AST-00009",
-    "customer_id": "CUS-4750727-1",
-    "customer_name_snapshot": "BERRIOS POZO",
+    "customer_id": "CUS-5637995-1",
+    "customer_name_snapshot": "LEVELUP HUB LIMITADA",
     "material_id": 1,
     "material_snapshot": {
       "sku": "POP-0001",
@@ -605,8 +605,8 @@
   },
   {
     "id": "AST-00010",
-    "customer_id": "CUS-4750727-1",
-    "customer_name_snapshot": "BERRIOS POZO",
+    "customer_id": "CUS-5637995-1",
+    "customer_name_snapshot": "LEVELUP HUB LIMITADA",
     "material_id": 7,
     "material_snapshot": {
       "sku": "POP-0007",
@@ -652,7 +652,7 @@
   {
     "id": "AST-00011",
     "customer_id": "CUS-4813536-1",
-    "customer_name_snapshot": "RIVAS ESPINOZA LEONOR",
+    "customer_name_snapshot": "HOLO LAB SPA",
     "material_id": 2,
     "material_snapshot": {
       "sku": "POP-0002",
@@ -715,7 +715,7 @@
   {
     "id": "AST-00012",
     "customer_id": "CUS-4813536-1",
-    "customer_name_snapshot": "RIVAS ESPINOZA LEONOR",
+    "customer_name_snapshot": "HOLO LAB SPA",
     "material_id": 13,
     "material_snapshot": {
       "sku": "POP-0013",
@@ -795,8 +795,8 @@
   },
   {
     "id": "AST-00013",
-    "customer_id": "CUS-5168302-1",
-    "customer_name_snapshot": "BELMAR DIAZ VICTOR MANUEL",
+    "customer_id": "CUS-5814908-1",
+    "customer_name_snapshot": "FONO CONNECT LTDA",
     "material_id": 3,
     "material_snapshot": {
       "sku": "POP-0003",
@@ -841,8 +841,8 @@
   },
   {
     "id": "AST-00014",
-    "customer_id": "CUS-5168302-1",
-    "customer_name_snapshot": "BELMAR DIAZ VICTOR MANUEL",
+    "customer_id": "CUS-5814908-1",
+    "customer_name_snapshot": "FONO CONNECT LTDA",
     "material_id": 17,
     "material_snapshot": {
       "sku": "POP-0017",
@@ -904,8 +904,8 @@
   },
   {
     "id": "AST-00015",
-    "customer_id": "CUS-5168302-1",
-    "customer_name_snapshot": "BELMAR DIAZ VICTOR MANUEL",
+    "customer_id": "CUS-5814908-1",
+    "customer_name_snapshot": "FONO CONNECT LTDA",
     "material_id": 29,
     "material_snapshot": {
       "sku": "POP-0029",
@@ -1002,8 +1002,8 @@
   },
   {
     "id": "AST-00016",
-    "customer_id": "CUS-9339162-1",
-    "customer_name_snapshot": "UBILLA PEREZ",
+    "customer_id": "CUS-7843284-1",
+    "customer_name_snapshot": "VOLT STORE LTDA",
     "material_id": 8,
     "material_snapshot": {
       "sku": "POP-0008",
@@ -1082,8 +1082,8 @@
   },
   {
     "id": "AST-00017",
-    "customer_id": "CUS-9339162-1",
-    "customer_name_snapshot": "UBILLA PEREZ",
+    "customer_id": "CUS-7843284-1",
+    "customer_name_snapshot": "VOLT STORE LTDA",
     "material_id": 23,
     "material_snapshot": {
       "sku": "POP-0023",
@@ -1146,8 +1146,8 @@
   },
   {
     "id": "AST-00018",
-    "customer_id": "CUS-9339162-1",
-    "customer_name_snapshot": "UBILLA PEREZ",
+    "customer_id": "CUS-7843284-1",
+    "customer_name_snapshot": "VOLT STORE LTDA",
     "material_id": 30,
     "material_snapshot": {
       "sku": "POP-0030",
@@ -1175,7 +1175,7 @@
   {
     "id": "AST-00019",
     "customer_id": "CUS-9491870-1",
-    "customer_name_snapshot": "HUENCHUNIR CATRINAO",
+    "customer_name_snapshot": "CHIP SYSTEMS EIRL",
     "material_id": 4,
     "material_snapshot": {
       "sku": "POP-0004",
@@ -1238,7 +1238,7 @@
   {
     "id": "AST-00020",
     "customer_id": "CUS-9491870-1",
-    "customer_name_snapshot": "HUENCHUNIR CATRINAO",
+    "customer_name_snapshot": "CHIP SYSTEMS EIRL",
     "material_id": 14,
     "material_snapshot": {
       "sku": "POP-0014",
@@ -1283,8 +1283,8 @@
   },
   {
     "id": "AST-00021",
-    "customer_id": "CUS-5719313-1",
-    "customer_name_snapshot": "RIVERA ULLOA CARMEN ROSA",
+    "customer_id": "CUS-7549138-1",
+    "customer_name_snapshot": "DOMO HOME LTDA",
     "material_id": 18,
     "material_snapshot": {
       "sku": "POP-0018",
@@ -1346,8 +1346,8 @@
   },
   {
     "id": "AST-00022",
-    "customer_id": "CUS-5719313-1",
-    "customer_name_snapshot": "RIVERA ULLOA CARMEN ROSA",
+    "customer_id": "CUS-7549138-1",
+    "customer_name_snapshot": "DOMO HOME LTDA",
     "material_id": 15,
     "material_snapshot": {
       "sku": "POP-0015",
@@ -1444,8 +1444,8 @@
   },
   {
     "id": "AST-00023",
-    "customer_id": "CUS-5719313-1",
-    "customer_name_snapshot": "RIVERA ULLOA CARMEN ROSA",
+    "customer_id": "CUS-7549138-1",
+    "customer_name_snapshot": "DOMO HOME LTDA",
     "material_id": 9,
     "material_snapshot": {
       "sku": "POP-0009",
@@ -1491,7 +1491,7 @@
   {
     "id": "AST-00024",
     "customer_id": "CUS-7017690-1",
-    "customer_name_snapshot": "MAURICIO EDUARDO OLIVERA URRUTIA",
+    "customer_name_snapshot": "ROBOT EDU EIRL",
     "material_id": 19,
     "material_snapshot": {
       "sku": "POP-0019",
@@ -1554,7 +1554,7 @@
   {
     "id": "AST-00025",
     "customer_id": "CUS-7017690-1",
-    "customer_name_snapshot": "MAURICIO EDUARDO OLIVERA URRUTIA",
+    "customer_name_snapshot": "ROBOT EDU EIRL",
     "material_id": 5,
     "material_snapshot": {
       "sku": "POP-0005",
@@ -1617,8 +1617,8 @@
   },
   {
     "id": "AST-00026",
-    "customer_id": "CUS-9579635-1",
-    "customer_name_snapshot": "GUINEZ GONZALEZ SUSANA MABEL",
+    "customer_id": "CUS-8138988-1",
+    "customer_name_snapshot": "AERO DRONES LTDA",
     "material_id": 24,
     "material_snapshot": {
       "sku": "POP-0024",
@@ -1680,8 +1680,8 @@
   },
   {
     "id": "AST-00027",
-    "customer_id": "CUS-9579635-1",
-    "customer_name_snapshot": "GUINEZ GONZALEZ SUSANA MABEL",
+    "customer_id": "CUS-8138988-1",
+    "customer_name_snapshot": "AERO DRONES LTDA",
     "material_id": 10,
     "material_snapshot": {
       "sku": "POP-0010",
@@ -1726,8 +1726,8 @@
   },
   {
     "id": "AST-00028",
-    "customer_id": "CUS-76398147-1",
-    "customer_name_snapshot": "LOYOLA",
+    "customer_id": "CUS-7691991-1",
+    "customer_name_snapshot": "HARD PC SPA",
     "material_id": 11,
     "material_snapshot": {
       "sku": "POP-0011",
@@ -1789,8 +1789,8 @@
   },
   {
     "id": "AST-00029",
-    "customer_id": "CUS-76398147-1",
-    "customer_name_snapshot": "LOYOLA",
+    "customer_id": "CUS-7691991-1",
+    "customer_name_snapshot": "HARD PC SPA",
     "material_id": 20,
     "material_snapshot": {
       "sku": "POP-0020",
@@ -1835,8 +1835,8 @@
   },
   {
     "id": "AST-00030",
-    "customer_id": "CUS-76398147-1",
-    "customer_name_snapshot": "LOYOLA",
+    "customer_id": "CUS-7691991-1",
+    "customer_name_snapshot": "HARD PC SPA",
     "material_id": 25,
     "material_snapshot": {
       "sku": "POP-0025",
@@ -1916,8 +1916,8 @@
   },
   {
     "id": "AST-00031",
-    "customer_id": "CUS-76498145-1",
-    "customer_name_snapshot": "INACAP",
+    "customer_id": "CUS-7743021-1",
+    "customer_name_snapshot": "IMPRE CENTER SPA",
     "material_id": 21,
     "material_snapshot": {
       "sku": "POP-0021",
@@ -1979,8 +1979,8 @@
   },
   {
     "id": "AST-00032",
-    "customer_id": "CUS-76498145-1",
-    "customer_name_snapshot": "INACAP",
+    "customer_id": "CUS-7743021-1",
+    "customer_name_snapshot": "IMPRE CENTER SPA",
     "material_id": 26,
     "material_snapshot": {
       "sku": "POP-0026",
@@ -2025,8 +2025,8 @@
   },
   {
     "id": "AST-00033",
-    "customer_id": "CUS-76498145-1",
-    "customer_name_snapshot": "INACAP",
+    "customer_id": "CUS-7743021-1",
+    "customer_name_snapshot": "IMPRE CENTER SPA",
     "material_id": 4,
     "material_snapshot": {
       "sku": "POP-0004",
